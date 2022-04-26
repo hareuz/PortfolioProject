@@ -1,0 +1,604 @@
+,Symbol,Company,Owner,Relationship,Date,Cost,# Shares,Value($),Total Shares,Filing,Type
+1,IMRA,IMARA Inc.,Leonard Braden Michael,10% Owner,"Apr 22, 2022",$1.38,8000,11040,2860000,"Apr 25, 2022, 11:05 AM",buy
+2,IMRA,IMARA Inc.,Leonard Braden Michael,10% Owner,"Apr 21, 2022",$1.40,552000,772800,2852000,"Apr 25, 2022, 11:05 AM",buy
+3,EYEN,"EYENOVIA, INC.",Grant Stuart M.,10% Owner,"Apr 21, 2022",$2.59,38800,100492,4865924,"Apr 25, 2022, 06:10 AM",buy
+4,EYEN,"EYENOVIA, INC.",Grant Stuart M.,10% Owner,"Apr 22, 2022",$2.55,20000,51000,4885924,"Apr 25, 2022, 06:10 AM",buy
+5,TCON,"Tracon Pharmaceuticals, Inc.",THEUER CHARLES,President and CEO,"Apr 21, 2022",$2.30,4500,10350,234518,"Apr 25, 2022, 06:00 AM",buy
+6,AMWL,American Well Corp,Schlegel Stephen J.,Director,"Sep 17, 2020",$18.00,20000,360000,49938,"Apr 22, 2022, 07:59 PM",buy
+7,AMWL,American Well Corp,PATRICK DEVAL L,Director,"Sep 17, 2020",$18.00,8000,144000,8000,"Apr 22, 2022, 07:58 PM",buy
+8,AMWL,American Well Corp,PATRICK DEVAL L,Director,"Sep 17, 2020",$18.00,3000,54000,27772,"Apr 22, 2022, 07:58 PM",buy
+9,AMWL,American Well Corp,OGrady Brendan P.,See Remarks,"Sep 17, 2020",$18.00,14000,252000,867236,"Apr 22, 2022, 07:56 PM",buy
+10,AMWL,American Well Corp,Cosgrove Delos M.,Director,"Sep 17, 2020",$18.00,200,3600,30138,"Apr 22, 2022, 07:53 PM",buy
+11,RUBY,"Rubius Therapeutics, Inc.",Epstein David R,Director,"Apr 21, 2022",$1.44,30000,43329,4720012,"Apr 22, 2022, 06:07 PM",buy
+12,ATAX,"AMERICA FIRST MULTIFAMILY INVESTORS, L.P.",Wilson Deborah A,Director,"Apr 21, 2022",$18.13,551,9990,3302,"Apr 22, 2022, 05:36 PM",buy
+13,NYC,"New York City REIT, Inc.",SCHORSCH NICHOLAS S,10% Owner,"Apr 21, 2022",$13.18,12500,164734,1168591,"Apr 22, 2022, 05:26 PM",buy
+14,NYC,"New York City REIT, Inc.",SCHORSCH NICHOLAS S,10% Owner,"Apr 22, 2022",$12.77,12500,159625,1181091,"Apr 22, 2022, 05:26 PM",buy
+15,RCAT,"Red Cat Holdings, Inc.",Thompson Jeffrey M,"Chairman of the Board, CEO","Apr 20, 2022",$1.99,4500,8965,12687468,"Apr 22, 2022, 05:10 PM",buy
+16,RCAT,"Red Cat Holdings, Inc.",Thompson Jeffrey M,"Chairman of the Board, CEO","Apr 19, 2022",$1.99,1000,1990,12682968,"Apr 22, 2022, 05:10 PM",buy
+17,ADVM,"Adverum Biotechnologies, Inc.",Fischer Laurent,"CEO, President and Director","Apr 20, 2022",$1.11,25000,27800,762462,"Apr 22, 2022, 05:00 PM",buy
+18,PLPC,PREFORMED LINE PRODUCTS CO,GIBBONS MICHAEL E,Director,"Apr 21, 2022",$63.42,23,1459,7398,"Apr 22, 2022, 05:00 PM",buy
+19,MYPS,"PLAYSTUDIOS, Inc.",PASCAL ANDREW S,Chairman and CEO,"Apr 20, 2022",$5.84,10300,60130,294800,"Apr 22, 2022, 04:54 PM",buy
+20,RKT,"Rocket Companies, Inc.",Farner Jay,Chief Executive Officer,"Apr 22, 2022",$8.93,22400,200032,1810707,"Apr 22, 2022, 04:53 PM",buy
+21,RKT,"Rocket Companies, Inc.",Farner Jay,Chief Executive Officer,"Apr 21, 2022",$9.33,21200,197796,1788307,"Apr 22, 2022, 04:53 PM",buy
+22,AGX,ARGAN INC,Jeffrey John Ronald Jr.,Director,"Apr 22, 2022",$36.97,1000,36970,7000,"Apr 22, 2022, 04:29 PM",buy
+23,AFRM,"Affirm Holdings, Inc.",GIC Private Ltd,10% Owner,"Apr 21, 2022",$33.33,1091738,36386597,2785714,"Apr 22, 2022, 04:25 PM",buy
+24,AFRM,"Affirm Holdings, Inc.",GIC Private Ltd,10% Owner,"Apr 20, 2022",$34.89,881890,30772148,1693976,"Apr 22, 2022, 04:25 PM",buy
+25,SXT,SENSIENT TECHNOLOGIES CORP,Winder Investment Pte Ltd,10% Owner,"Apr 20, 2022",$85.18,13629,1160918,5507577,"Apr 22, 2022, 04:19 PM",buy
+26,BATRA,Liberty Media Corp,"GAMCO INVESTORS, INC. ET AL",10% Owner,"Apr 21, 2022",$27.96,3000,83880,15000,"Apr 22, 2022, 04:16 PM",buy
+27,MEGI,MainStay CBRE Global Infrastructure Megatrends Fund,Anagnos Jeremy,Portfolio Manager,"Apr 20, 2022",$18.38,1000,18380,14578,"Apr 22, 2022, 02:32 PM",buy
+28,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 21, 2022",$2.35,300,705,158608,"Apr 22, 2022, 12:07 PM",buy
+29,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 21, 2022",$2.35,300,705,155200,"Apr 22, 2022, 12:07 PM",buy
+30,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 21, 2022",$2.35,75,176,38767,"Apr 22, 2022, 12:07 PM",buy
+31,DUOL,"Duolingo, Inc.",Durable Capital Partners LP,10% Owner,"Apr 20, 2022",$88.93,17400,1547382,3224945,"Apr 22, 2022, 11:22 AM",buy
+32,HAS,"HASBRO, INC.",Cocks Christian P,Chief Executive Officer,"Apr 21, 2022",$89.59,10102,905046,65945,"Apr 22, 2022, 11:17 AM",buy
+33,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 21, 2022",$1432.76,2,2866,1448,"Apr 22, 2022, 10:58 AM",buy
+34,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 21, 2022",$1432.76,1,1433,43078,"Apr 22, 2022, 10:58 AM",buy
+35,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 21, 2022",$1432.76,12,17193,205956,"Apr 22, 2022, 10:58 AM",buy
+36,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 21, 2022",$1432.76,3,4298,1654,"Apr 22, 2022, 10:58 AM",buy
+37,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 21, 2022",$1432.76,2,2866,1309,"Apr 22, 2022, 10:58 AM",buy
+38,ANIX,Anixa Biosciences Inc,Catelani Michael,President,"Apr 21, 2022",$2.66,5500,14630,18135,"Apr 22, 2022, 09:50 AM",buy
+39,CHSCN,CHS INC,Cordes Scott A,Director,"Apr 21, 2022",$25.90,300,7770,300,"Apr 22, 2022, 09:02 AM",buy
+40,GLSI,"Greenwich LifeSciences, Inc.",Patel Snehal,CEO and CFO,"Apr 21, 2022",$16.09,6000,96540,1216929,"Apr 22, 2022, 06:04 AM",buy
+41,ALTG,ALTA EQUIPMENT GROUP INC.,"B. Riley Financial, Inc.",10% Owner,"Apr 19, 2022",$11.49,13357,153476,5651604,"Apr 21, 2022, 09:00 PM",buy
+42,MED,MEDIFAST INC,Chard Daniel R,Chairman & CEO,"Feb 04, 2022",$186.40,690,128616,103839,"Apr 21, 2022, 08:59 PM",buy
+43,MED,MEDIFAST INC,BROWN JEFFREY J,Director,"Feb 04, 2022",$186.40,266,49582,35223,"Apr 21, 2022, 08:58 PM",buy
+44,NNUP,NOCOPI TECHNOLOGIES INC/MD/,Eriksen Howard Timothy,10% Owner,"Apr 21, 2022",$0.16,40000,6400,7116126,"Apr 21, 2022, 07:48 PM",buy
+45,NNUP,NOCOPI TECHNOLOGIES INC/MD/,Eriksen Howard Timothy,10% Owner,"Apr 20, 2022",$0.15,389,59,7076126,"Apr 21, 2022, 07:48 PM",buy
+46,NNBR,NN INC,"Corre Partners Management, LLC",10% Owner,"Apr 21, 2022",$2.75,69495,190993,4172246,"Apr 21, 2022, 07:17 PM",buy
+47,NNBR,NN INC,"Corre Partners Management, LLC",10% Owner,"Apr 20, 2022",$2.73,59802,163367,4102751,"Apr 21, 2022, 07:17 PM",buy
+48,NNBR,NN INC,"Corre Partners Management, LLC",10% Owner,"Apr 19, 2022",$2.60,274619,713955,4042949,"Apr 21, 2022, 07:17 PM",buy
+49,STIM,"Neuronetics, Inc.",CANNELL CAPITAL LLC,10% Owner,"Apr 19, 2022",$2.89,206,595,3131119,"Apr 21, 2022, 06:30 PM",buy
+50,INZY,"Inozyme Pharma, Inc.","Longitude Capital Partners III, LLC",10% Owner,"Apr 19, 2022",$3.69,1355000,4999950,4174379,"Apr 21, 2022, 06:04 PM",buy
+51,GRPN,"Groupon, Inc.",Barta Jan,See Footnote 1,"Apr 21, 2022",$19.88,118565,2357343,1550043,"Apr 21, 2022, 06:04 PM",buy
+52,GRPN,"Groupon, Inc.",Barta Jan,See Footnote 1,"Apr 20, 2022",$20.09,87273,1753213,1473323,"Apr 21, 2022, 06:04 PM",buy
+53,GRPN,"Groupon, Inc.",Barta Jan,See Footnote 1,"Apr 19, 2022",$20.48,106823,2187202,1429053,"Apr 21, 2022, 06:04 PM",buy
+54,PHX,PHX MINERALS INC.,"SRP CAPITAL ADVISORS, LLC",10% Owner,"Apr 19, 2022",$3.70,67933,251352,3481274,"Apr 21, 2022, 05:50 PM",buy
+55,CMPO,"CompoSecure, Inc.",Bleichroeder LP,10% Owner,"Apr 21, 2022",$7.63,54593,416725,1952748,"Apr 21, 2022, 05:44 PM",buy
+56,CMPO,"CompoSecure, Inc.",Bleichroeder LP,10% Owner,"Apr 20, 2022",$7.75,26064,201920,1898155,"Apr 21, 2022, 05:44 PM",buy
+57,CMPO,"CompoSecure, Inc.",Bleichroeder LP,10% Owner,"Apr 19, 2022",$7.65,38465,294080,1872091,"Apr 21, 2022, 05:44 PM",buy
+58,SXT,SENSIENT TECHNOLOGIES CORP,Winder Investment Pte Ltd,10% Owner,"Apr 19, 2022",$84.50,12870,1087533,5493948,"Apr 21, 2022, 04:53 PM",buy
+59,CBL,CBL & ASSOCIATES PROPERTIES INC,Heller Jonathan M,Director,"Apr 20, 2022",$32.25,70000,2257500,70000,"Apr 21, 2022, 04:52 PM",buy
+60,CBL,CBL & ASSOCIATES PROPERTIES INC,Heller Jonathan M,Director,"Apr 20, 2022",$32.25,30000,967500,38334,"Apr 21, 2022, 04:52 PM",buy
+61,GANX,"Gain Therapeutics, Inc.",RICHMAN ERIC I,Chief Executive Officer,"Aug 16, 2021",$7.87,4922,38716,216820,"Apr 21, 2022, 04:50 PM",buy
+62,SREV,"SERVICESOURCE INTERNATIONAL, INC.","Edenbrook Capital, LLC",10% Owner,"Apr 21, 2022",$1.15,12822,14684,20916400,"Apr 21, 2022, 04:45 PM",buy
+63,SREV,"SERVICESOURCE INTERNATIONAL, INC.","Edenbrook Capital, LLC",10% Owner,"Apr 20, 2022",$1.15,13160,15134,20903578,"Apr 21, 2022, 04:45 PM",buy
+64,SREV,"SERVICESOURCE INTERNATIONAL, INC.","Edenbrook Capital, LLC",10% Owner,"Apr 19, 2022",$1.14,6224,7094,20890418,"Apr 21, 2022, 04:45 PM",buy
+65,STSS,Sharps Technology Inc.,Hayes Robert Michael,Chief Executive Officer,"Apr 20, 2022",$2.25,2000,4490,10000,"Apr 21, 2022, 04:36 PM",buy
+66,STSS,Sharps Technology Inc.,Hayes Robert Michael,Chief Executive Officer,"Apr 19, 2022",$3.00,1000,3000,8000,"Apr 21, 2022, 04:36 PM",buy
+67,AXR,AMREP CORP.,CLOUES EDWARD B II,Director,"Apr 21, 2022",$12.35,1500,18525,25365,"Apr 21, 2022, 04:31 PM",buy
+68,STSS,Sharps Technology Inc.,Crescenzo Andrew R.,Chief Financial Officer,"Apr 20, 2022",$2.26,6000,13560,6000,"Apr 21, 2022, 04:30 PM",buy
+69,SNSE,"Sensei Biotherapeutics, Inc.",Peyer James,Director,"Mar 23, 2021",$14.34,9500,136230,4798293,"Apr 21, 2022, 04:25 PM",buy
+70,SNSE,"Sensei Biotherapeutics, Inc.",Peyer James,Director,"Feb 18, 2021",$19.75,752,14852,4690905,"Apr 21, 2022, 04:22 PM",buy
+71,SNSE,"Sensei Biotherapeutics, Inc.",Cambrian BioPharma Inc,10% Owner,"Mar 23, 2021",$14.34,9500,136230,4798293,"Apr 21, 2022, 04:19 PM",buy
+72,AFRM,"Affirm Holdings, Inc.",GIC Private Ltd,10% Owner,"Apr 19, 2022",$34.98,134197,4694211,812086,"Apr 21, 2022, 04:17 PM",buy
+73,SNSE,"Sensei Biotherapeutics, Inc.",Cambrian BioPharma Inc,10% Owner,"Feb 18, 2021",$19.75,752,14852,4690905,"Apr 21, 2022, 04:17 PM",buy
+74,IGR,CBRE GLOBAL REAL ESTATE INCOME FUND,Miniman Jonathan D,Portfolio Manager,"Apr 19, 2022",$8.91,350,3118,10013,"Apr 21, 2022, 04:11 PM",buy
+75,IGR,CBRE GLOBAL REAL ESTATE INCOME FUND,Miniman Jonathan D,Portfolio Manager,"Mar 15, 2022",$8.13,2000,16260,9663,"Apr 21, 2022, 04:11 PM",buy
+76,NVOS,"Novo Integrated Sciences, Inc.",Oliva Robert Letterio,Director,"Apr 20, 2022",$2.23,5000,11156,217717,"Apr 21, 2022, 04:05 PM",buy
+77,NVOS,"Novo Integrated Sciences, Inc.",Oliva Robert Letterio,Director,"Apr 19, 2022",$2.22,5000,11125,212717,"Apr 21, 2022, 04:05 PM",buy
+78,BATRA,Liberty Media Corp,"GAMCO INVESTORS, INC. ET AL",10% Owner,"Apr 12, 2022",$27.12,5000,135592,40000,"Apr 21, 2022, 04:01 PM",buy
+79,BATRA,Liberty Media Corp,"GAMCO INVESTORS, INC. ET AL",10% Owner,"Apr 20, 2022",$28.02,5000,140105,5000,"Apr 21, 2022, 04:01 PM",buy
+80,IGR,CBRE GLOBAL REAL ESTATE INCOME FUND,Weinberg Kenneth S,Portfolio Manager,"May 15, 2020",$5.11,5000,25543,5000,"Apr 21, 2022, 03:57 PM",buy
+81,PMD,PSYCHEMEDICS CORP,Kamin Peter,10% Owner,"Apr 20, 2022",$6.72,8100,54432,214031,"Apr 21, 2022, 03:30 PM",buy
+82,PMD,PSYCHEMEDICS CORP,Kamin Peter,10% Owner,"Apr 19, 2022",$6.52,627,4088,43180,"Apr 21, 2022, 03:30 PM",buy
+83,PMD,PSYCHEMEDICS CORP,Kamin Peter,10% Owner,"Apr 20, 2022",$6.72,1800,12096,44980,"Apr 21, 2022, 03:30 PM",buy
+84,PMD,PSYCHEMEDICS CORP,Kamin Peter,10% Owner,"Apr 19, 2022",$6.52,15152,98791,143190,"Apr 21, 2022, 03:30 PM",buy
+85,PMD,PSYCHEMEDICS CORP,Kamin Peter,10% Owner,"Apr 20, 2022",$6.72,3808,25590,146998,"Apr 21, 2022, 03:30 PM",buy
+86,PMD,PSYCHEMEDICS CORP,Kamin Peter,10% Owner,"Apr 19, 2022",$6.52,11706,76323,216778,"Apr 21, 2022, 03:30 PM",buy
+87,PMD,PSYCHEMEDICS CORP,Kamin Peter,10% Owner,"Apr 20, 2022",$6.72,1950,13104,218728,"Apr 21, 2022, 03:30 PM",buy
+88,CRTD,"Creatd, Inc.",Frommer Jeremy,Executive Chairman,"Apr 20, 2022",$1.07,1026,1098,644709,"Apr 21, 2022, 03:23 PM",buy
+89,EIM,EATON VANCE MUNICIPAL BOND FUND,BRANDON CRAIG R,Portfolio Management,"Apr 21, 2022",$10.91,22665,247275,44415,"Apr 21, 2022, 01:25 PM",buy
+90,QCRH,QCR HOLDINGS INC,Ziegler Marie Z.,Director,"Apr 21, 2022",$58.11,112,6508,28601,"Apr 21, 2022, 12:43 PM",buy
+91,DCTH,"DELCATH SYSTEMS, INC.","Rosalind Advisors, Inc.",Director,"Apr 19, 2022",$6.25,1600,10000,433100,"Apr 21, 2022, 12:42 PM",buy
+92,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 20, 2022",$2.33,300,699,158308,"Apr 21, 2022, 12:16 PM",buy
+93,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 20, 2022",$2.33,300,699,154900,"Apr 21, 2022, 12:16 PM",buy
+94,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 20, 2022",$2.33,75,175,38692,"Apr 21, 2022, 12:16 PM",buy
+95,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 20, 2022",$1506.29,3,4519,1651,"Apr 21, 2022, 11:55 AM",buy
+96,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 20, 2022",$1506.29,2,3013,1307,"Apr 21, 2022, 11:55 AM",buy
+97,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 20, 2022",$1506.29,2,3013,1446,"Apr 21, 2022, 11:55 AM",buy
+98,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 20, 2022",$1506.29,1,1506,43077,"Apr 21, 2022, 11:55 AM",buy
+99,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 20, 2022",$1506.29,12,18075,205944,"Apr 21, 2022, 11:55 AM",buy
+100,ANIX,Anixa Biosciences Inc,Catelani Michael,President,"Apr 20, 2022",$2.53,2509,6348,12635,"Apr 21, 2022, 11:28 AM",buy
+1,CLNN,Clene Inc.,MATLIN DAVID J,Director,"Apr 20, 2022",$3.01,132891,400002,1844288,"Apr 21, 2022, 08:48 AM",buy
+2,FRAF,FRANKLIN FINANCIAL SERVICES CORP /PA/,Carmack Karen K,SVP,"Apr 20, 2022",$32.99,1,33,2226,"Apr 21, 2022, 08:21 AM",buy
+3,FRAF,FRANKLIN FINANCIAL SERVICES CORP /PA/,Hollar Mark R,CFO,"Apr 20, 2022",$32.99,3,99,7767,"Apr 21, 2022, 08:19 AM",buy
+4,GLSI,"Greenwich LifeSciences, Inc.",Patel Snehal,CEO and CFO,"Apr 19, 2022",$16.74,6000,100440,1210929,"Apr 21, 2022, 06:03 AM",buy
+5,LVO,"LiveOne, Inc.",ELLIN ROBERT S,CEO & Chairman,"Apr 20, 2022",$0.82,25000,20392,1909666,"Apr 20, 2022, 09:01 PM",buy
+6,NYC,"New York City REIT, Inc.",SCHORSCH NICHOLAS S,10% Owner,"Apr 20, 2022",$12.91,12500,161375,1156901,"Apr 20, 2022, 08:14 PM",buy
+7,NYC,"New York City REIT, Inc.",SCHORSCH NICHOLAS S,10% Owner,"Apr 19, 2022",$13.01,12500,162625,1143591,"Apr 20, 2022, 08:14 PM",buy
+8,NYC,"New York City REIT, Inc.",SCHORSCH NICHOLAS S,10% Owner,"Apr 18, 2022",$13.29,12500,166125,1131091,"Apr 20, 2022, 08:14 PM",buy
+9,ABIO,"ARCA biopharma, Inc.","Funicular Fund, LP",See Footnote 1,"Apr 18, 2022",$2.31,9119,21080,2180219,"Apr 20, 2022, 07:43 PM",buy
+10,PNTG,"Pennant Group, Inc.",Christensen Christopher R.,Director,"Apr 18, 2022",$16.50,2668,44022,581133,"Apr 20, 2022, 07:07 PM",buy
+11,AMHG,Amergent Hospitality Group Inc.,Pruitt Michael D,CEO,"Apr 20, 2022",$0.37,4000,1475,46529,"Apr 20, 2022, 06:59 PM",buy
+12,CRCT,"Cricut, Inc.","Abdiel Capital Management, LLC",10% Owner,"Apr 19, 2022",$13.81,15000,207150,14132021,"Apr 20, 2022, 06:51 PM",buy
+13,CRCT,"Cricut, Inc.","Abdiel Capital Management, LLC",10% Owner,"Apr 18, 2022",$13.40,20393,273266,14117021,"Apr 20, 2022, 06:51 PM",buy
+14,CRCT,"Cricut, Inc.","Abdiel Capital Management, LLC",10% Owner,"Apr 20, 2022",$13.88,62,861,14174319,"Apr 20, 2022, 06:51 PM",buy
+15,CRCT,"Cricut, Inc.","Abdiel Capital Management, LLC",10% Owner,"Apr 20, 2022",$13.88,42236,586236,14174257,"Apr 20, 2022, 06:51 PM",buy
+16,INZY,"Inozyme Pharma, Inc.","Pivotal bioVenture Partners Fund I, L.P.",Director,"Apr 19, 2022",$3.69,1070000,3948300,2661154,"Apr 20, 2022, 06:22 PM",buy
+17,SCTL,"Societal CDMO, Inc.","AWM Investment Company, Inc.",,"Apr 18, 2022",$1.55,15000,23201,5097501,"Apr 20, 2022, 05:45 PM",buy
+18,SCTL,"Societal CDMO, Inc.","AWM Investment Company, Inc.",,"Apr 18, 2022",$1.52,600,910,5082501,"Apr 20, 2022, 05:45 PM",buy
+19,SCTL,"Societal CDMO, Inc.","AWM Investment Company, Inc.",,"Apr 20, 2022",$1.56,12100,18917,5109601,"Apr 20, 2022, 05:45 PM",buy
+20,TPHS,Trinity Place Holdings Inc.,"Messinger, Matthew",President and CEO,"Apr 20, 2022",$1.58,750,1184,1715502,"Apr 20, 2022, 05:14 PM",buy
+21,CFLT,"Confluent, Inc.",GERSTNER BRAD,10% Owner,"Apr 18, 2022",$37.53,82683,3103349,5929583,"Apr 20, 2022, 05:12 PM",buy
+22,CFLT,"Confluent, Inc.",GERSTNER BRAD,10% Owner,"Apr 20, 2022",$39.31,51000,2004851,5929583,"Apr 20, 2022, 05:12 PM",buy
+23,TAKIX,Carlyle Tactical Private Credit Fund,Handa Sanjeev,Director,"Apr 19, 2022",$8.96,5580,49997,8802,"Apr 20, 2022, 05:04 PM",buy
+24,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Oct 15, 2019",$14.48,889,12873,86879,"Apr 20, 2022, 05:03 PM",buy
+25,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Oct 15, 2020",$5.48,1738,9524,92665,"Apr 20, 2022, 05:03 PM",buy
+26,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Oct 15, 2021",$12.71,818,10397,96756,"Apr 20, 2022, 05:03 PM",buy
+27,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jul 15, 2020",$7.65,1218,9318,90928,"Apr 20, 2022, 05:03 PM",buy
+28,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jul 15, 2021",$10.21,1002,10230,95938,"Apr 20, 2022, 05:03 PM",buy
+29,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Apr 15, 2020",$7.30,1846,13476,89710,"Apr 20, 2022, 05:03 PM",buy
+30,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Apr 15, 2021",$10.18,988,10058,94936,"Apr 20, 2022, 05:03 PM",buy
+31,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Apr 14, 2022",$24.90,428,10657,97777,"Apr 20, 2022, 05:03 PM",buy
+32,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jan 15, 2020",$13.44,984,13225,87863,"Apr 20, 2022, 05:03 PM",buy
+33,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jan 15, 2021",$7.66,1283,9828,93948,"Apr 20, 2022, 05:03 PM",buy
+34,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jan 14, 2022",$17.76,593,10532,97350,"Apr 20, 2022, 05:03 PM",buy
+35,RKT,"Rocket Companies, Inc.",Farner Jay,Chief Executive Officer,"Apr 20, 2022",$9.34,21400,199876,1767107,"Apr 20, 2022, 05:02 PM",buy
+36,RKT,"Rocket Companies, Inc.",Farner Jay,Chief Executive Officer,"Apr 19, 2022",$9.33,21400,199662,1745707,"Apr 20, 2022, 05:02 PM",buy
+37,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Oct 16, 2017",$19.91,512,10194,80878,"Apr 20, 2022, 05:00 PM",buy
+38,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Oct 15, 2018",$16.92,693,11726,83624,"Apr 20, 2022, 05:00 PM",buy
+39,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jan 15, 2016",$11.95,317,3788,76500,"Apr 20, 2022, 05:00 PM",buy
+40,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jan 17, 2017",$13.95,274,3822,78685,"Apr 20, 2022, 05:00 PM",buy
+41,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jul 14, 2017",$16.00,628,10048,80366,"Apr 20, 2022, 05:00 PM",buy
+42,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jul 16, 2018",$17.52,659,11546,82932,"Apr 20, 2022, 05:00 PM",buy
+43,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jul 15, 2019",$14.97,845,12650,85990,"Apr 20, 2022, 05:00 PM",buy
+44,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Oct 15, 2015",$11.09,162,1797,76183,"Apr 20, 2022, 05:00 PM",buy
+45,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Oct 14, 2016",$12.55,722,9061,78410,"Apr 20, 2022, 05:00 PM",buy
+46,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Apr 17, 2017",$13.74,674,9261,79738,"Apr 20, 2022, 05:00 PM",buy
+47,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Apr 16, 2018",$14.53,767,11145,82272,"Apr 20, 2022, 05:00 PM",buy
+48,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Apr 15, 2019",$15.50,795,12323,85146,"Apr 20, 2022, 05:00 PM",buy
+49,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jul 15, 2016",$14.78,821,12134,77688,"Apr 20, 2022, 05:00 PM",buy
+50,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jul 17, 2017",$13.95,379,5287,79064,"Apr 20, 2022, 05:00 PM",buy
+51,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jan 16, 2018",$17.49,628,10984,81506,"Apr 20, 2022, 05:00 PM",buy
+52,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Jan 15, 2019",$16.71,726,12131,84351,"Apr 20, 2022, 05:00 PM",buy
+53,APTS,PREFERRED APARTMENT COMMUNITIES INC,BARTKOWSKI STEVE,Director,"Apr 15, 2016",$12.62,368,4644,76867,"Apr 20, 2022, 05:00 PM",buy
+54,HMTV,"HEMISPHERE MEDIA GROUP, INC.","Fine Capital Partners, L.P.",10% Owner,"Apr 20, 2022",$4.49,55000,246945,3050530,"Apr 20, 2022, 04:59 PM",buy
+55,HMTV,"HEMISPHERE MEDIA GROUP, INC.","Fine Capital Partners, L.P.",10% Owner,"Apr 19, 2022",$4.44,109728,486666,2995530,"Apr 20, 2022, 04:59 PM",buy
+56,HMTV,"HEMISPHERE MEDIA GROUP, INC.","Fine Capital Partners, L.P.",10% Owner,"Apr 18, 2022",$4.40,125000,549913,2885802,"Apr 20, 2022, 04:59 PM",buy
+57,KFS,KINGSWAY FINANCIAL SERVICES INC,Fitzgerald John Taylor Maloney,President and CEO,"Apr 19, 2022",$5.43,383,2080,1919694,"Apr 20, 2022, 04:51 PM",buy
+58,KFS,KINGSWAY FINANCIAL SERVICES INC,Hansen Kent A,CFO & EVP,"Apr 19, 2022",$5.43,276,1499,90553,"Apr 20, 2022, 04:50 PM",buy
+59,ADVM,"Adverum Biotechnologies, Inc.",Soparkar Peter,See Remarks section,"Apr 19, 2022",$1.14,21925,24994,280556,"Apr 20, 2022, 04:35 PM",buy
+60,AXR,AMREP CORP.,CLOUES EDWARD B II,Director,"Apr 19, 2022",$12.53,2500,31325,23865,"Apr 20, 2022, 04:31 PM",buy
+61,ATAI,ATAI Life Sciences N.V.,Apeiron Investment Group Ltd.,10% Owner,"Apr 19, 2022",$5.13,65315,334739,1478520,"Apr 20, 2022, 04:30 PM",buy
+62,ATAI,ATAI Life Sciences N.V.,Apeiron Investment Group Ltd.,10% Owner,"Apr 18, 2022",$5.11,54322,277656,1413205,"Apr 20, 2022, 04:30 PM",buy
+63,SCTL,"Societal CDMO, Inc.","AWM Investment Company, Inc.",10% Owner,"Apr 19, 2022",$1.56,12100,18917,5109601,"Apr 20, 2022, 04:27 PM",buy
+64,SCTL,"Societal CDMO, Inc.","AWM Investment Company, Inc.",10% Owner,"Apr 18, 2022",$1.55,15600,24111,5097501,"Apr 20, 2022, 04:27 PM",buy
+65,SXT,SENSIENT TECHNOLOGIES CORP,Winder Investment Pte Ltd,10% Owner,"Apr 18, 2022",$82.55,18279,1508879,5481078,"Apr 20, 2022, 04:21 PM",buy
+66,CMTV,COMMUNITY BANCORP /VT,Oeschger Fredric,Director,"Apr 20, 2022",$23.00,500,11500,116055,"Apr 20, 2022, 04:20 PM",buy
+67,EE,"Excelerate Energy, Inc.",Kleemeier Henry G,Director,"Apr 18, 2022",$24.00,5000,120000,5000,"Apr 20, 2022, 04:17 PM",buy
+68,EE,"Excelerate Energy, Inc.",Bent Michael Anthony,See Remarks,"Apr 18, 2022",$24.00,7500,180000,7500,"Apr 20, 2022, 04:17 PM",buy
+69,EE,"Excelerate Energy, Inc.",Bustos Daniel H,See Remarks,"Apr 18, 2022",$24.00,140777,3378648,140777,"Apr 20, 2022, 04:17 PM",buy
+70,EE,"Excelerate Energy, Inc.",Kobos Steven M,President and CEO,"Apr 18, 2022",$24.00,265258,6366192,265258,"Apr 20, 2022, 04:17 PM",buy
+71,EE,"Excelerate Energy, Inc.",Broussard Amy Thompson,See Remarks,"Apr 18, 2022",$24.00,1500,36000,1500,"Apr 20, 2022, 04:17 PM",buy
+72,EE,"Excelerate Energy, Inc.",Millican Don P.,Director,"Apr 18, 2022",$24.00,6700,160800,6700,"Apr 20, 2022, 04:17 PM",buy
+73,EE,"Excelerate Energy, Inc.",Armstrong Dana A,See Remarks,"Apr 18, 2022",$24.00,400,9600,400,"Apr 20, 2022, 04:16 PM",buy
+74,EE,"Excelerate Energy, Inc.",Bancroft Calvin A,See Remarks,"Apr 18, 2022",$24.00,1200,28800,1200,"Apr 20, 2022, 04:16 PM",buy
+75,EE,"Excelerate Energy, Inc.",Waldo Robert,Director,"Apr 18, 2022",$24.00,20833,499992,20833,"Apr 20, 2022, 04:16 PM",buy
+76,INZY,"Inozyme Pharma, Inc.",Bjarke Henric Bjorn,"SVP, COO","Apr 19, 2022",$3.69,27100,99999,80626,"Apr 20, 2022, 04:05 PM",buy
+77,INZY,"Inozyme Pharma, Inc.",Bolte Axel,Chief Executive Officer,"Apr 19, 2022",$3.69,67750,249998,258575,"Apr 20, 2022, 04:05 PM",buy
+78,INZY,"Inozyme Pharma, Inc.",Hopfner Robert Lorne,Director,"Apr 19, 2022",$3.69,1070000,3948300,2661154,"Apr 20, 2022, 04:05 PM",buy
+79,INZY,"Inozyme Pharma, Inc.",Subramanian Sanjay,"SVP, CFO","Apr 19, 2022",$3.69,27100,99999,27100,"Apr 20, 2022, 04:05 PM",buy
+80,SHWZ,"Medicine Man Technologies, Inc.",Garwood Jeff,Director,"Apr 19, 2022",$1.82,19304,35056,192735,"Apr 20, 2022, 04:01 PM",buy
+81,SHWZ,"Medicine Man Technologies, Inc.",Garwood Jeff,Director,"Apr 18, 2022",$1.97,12696,25011,173431,"Apr 20, 2022, 04:01 PM",buy
+82,SHMP,NaturalShrimp Inc,Easterling Gerald,"CEO, President","Apr 19, 2022",$0.21,150000,31493,820240,"Apr 20, 2022, 03:59 PM",buy
+83,RCAT,"Red Cat Holdings, Inc.",Thompson Jeffrey M,"Chairman of the Board, CEO","Apr 18, 2022",$1.91,2500,4780,12676968,"Apr 20, 2022, 03:58 PM",buy
+84,DCTH,"DELCATH SYSTEMS, INC.",SALAMON STEVEN A J,Director,"Apr 19, 2022",$6.25,1600,10000,429100,"Apr 20, 2022, 03:47 PM",buy
+85,DUOL,"Duolingo, Inc.",Durable Capital Partners LP,10% Owner,"Apr 19, 2022",$88.97,23335,2076069,3207545,"Apr 20, 2022, 03:30 PM",buy
+86,DUOL,"Duolingo, Inc.",Durable Capital Partners LP,10% Owner,"Apr 18, 2022",$88.64,22265,1973481,3184210,"Apr 20, 2022, 03:30 PM",buy
+87,RCAT,"Red Cat Holdings, Inc.",Liuzza Nicholas Reyland JR,Director,"Apr 18, 2022",$1.92,13000,24960,909915,"Apr 20, 2022, 02:58 PM",buy
+88,GABC,"GERMAN AMERICAN BANCORP, INC.",SHEIDLER JACK,Director,"Apr 18, 2022",$36.92,70,2584,55822,"Apr 20, 2022, 02:54 PM",buy
+89,GABC,"GERMAN AMERICAN BANCORP, INC.",SEGER THOMAS W,Director,"Apr 18, 2022",$36.92,92,3397,354824,"Apr 20, 2022, 02:49 PM",buy
+90,GABC,"GERMAN AMERICAN BANCORP, INC.",Ryan Christina M,Director,"Apr 18, 2022",$36.92,70,2584,7280,"Apr 20, 2022, 02:45 PM",buy
+91,GABC,"GERMAN AMERICAN BANCORP, INC.",Ramsey Chris A,Director,"Apr 18, 2022",$36.92,46,1698,26970,"Apr 20, 2022, 02:41 PM",buy
+92,GABC,"GERMAN AMERICAN BANCORP, INC.",KELLY JASON M,Director,"Apr 18, 2022",$36.92,115,4246,7166,"Apr 20, 2022, 02:35 PM",buy
+93,GABC,"GERMAN AMERICAN BANCORP, INC.",Ellspermann Susan J,Director,"Apr 18, 2022",$36.92,69,2547,1627,"Apr 20, 2022, 02:31 PM",buy
+94,GABC,"GERMAN AMERICAN BANCORP, INC.",Bawel Zachary W,Director,"Apr 18, 2022",$36.92,69,2547,11974,"Apr 20, 2022, 02:22 PM",buy
+95,PQEFF,PETROTEQ ENERGY INC.,CANTONE ANTHONY J,10% Owner,"Apr 19, 2022",$0.12,2500000,300000,114957826,"Apr 20, 2022, 02:21 PM",buy
+96,PQEFF,PETROTEQ ENERGY INC.,CANTONE ANTHONY J,10% Owner,"Apr 20, 2022",$0.12,946666,113600,115904492,"Apr 20, 2022, 02:21 PM",buy
+97,YORW,YORK WATER CO,Rasmussen Steven R,Director,"Apr 20, 2022",$42.14,14,590,2908,"Apr 20, 2022, 01:46 PM",buy
+98,,HOMELAND ENERGY SOLUTIONS LLC,MARCHAND CHRISTINE A,Director,"Apr 20, 2022",$3000.00,25,75000,50,"Apr 20, 2022, 12:59 PM",buy
+99,BDTX,"Black Diamond Therapeutics, Inc.",BIOTECH GROWTH N V,10% Owner,"Apr 18, 2022",$3.29,150000,493935,4138402,"Apr 20, 2022, 12:56 PM",buy
+100,BDTX,"Black Diamond Therapeutics, Inc.",BIOTECH GROWTH N V,10% Owner,"Apr 19, 2022",$3.24,150000,486645,4288402,"Apr 20, 2022, 12:56 PM",buy
+1,ZDGE,"Zedge, Inc.",REICH JONATHAN,CEO & President,"Apr 19, 2022",$5.98,700,4186,8131,"Apr 20, 2022, 12:26 PM",buy
+2,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 19, 2022",$2.35,300,705,158008,"Apr 20, 2022, 11:09 AM",buy
+3,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 19, 2022",$2.35,300,705,154600,"Apr 20, 2022, 11:09 AM",buy
+4,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 19, 2022",$2.35,75,176,38617,"Apr 20, 2022, 11:09 AM",buy
+5,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 19, 2022",$1478.50,12,17742,205932,"Apr 20, 2022, 10:53 AM",buy
+6,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 19, 2022",$1478.50,3,4436,1648,"Apr 20, 2022, 10:53 AM",buy
+7,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 19, 2022",$1478.50,2,2957,1305,"Apr 20, 2022, 10:53 AM",buy
+8,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 19, 2022",$1478.50,1,1479,43076,"Apr 20, 2022, 10:53 AM",buy
+9,AREC,American Resources Corp,Sauve Thomas M.,President,"Apr 18, 2022",$2.27,5000,11343,4424501,"Apr 20, 2022, 08:39 AM",buy
+10,AREC,American Resources Corp,Jensen Mark C.,Chief Executive Officer,"Apr 18, 2022",$2.27,5000,11343,5169896,"Apr 20, 2022, 08:31 AM",buy
+11,AREC,American Resources Corp,Taylor Kirk Patrick,Chief Financial Officer,"Apr 18, 2022",$2.27,1000,2270,1621383,"Apr 20, 2022, 08:22 AM",buy
+12,YORW,YORK WATER CO,DOTZEL CYNTHIA,Director,"Apr 14, 2022",$41.02,31,1272,15549,"Apr 20, 2022, 08:22 AM",buy
+13,YORW,YORK WATER CO,DOTZEL CYNTHIA,Director,"Apr 18, 2022",$41.35,17,703,15566,"Apr 20, 2022, 08:22 AM",buy
+14,SCTL,"Societal CDMO, Inc.",ENLOE J DAVID JR,Chief Executive Officer,"Apr 18, 2022",$1.63,625,1019,502914,"Apr 20, 2022, 06:37 AM",buy
+15,GLSI,"Greenwich LifeSciences, Inc.",Thompson Jaye,VP Clinical Reg Affairs,"Apr 19, 2022",$16.74,500,8370,255995,"Apr 20, 2022, 06:02 AM",buy
+16,DTC,"Solo Brands, Inc.",Simmons Samuel Morin,Chief Financial Officer,"Nov 01, 2021",$17.00,13450,228650,13450,"Apr 19, 2022, 09:51 PM",buy
+17,DTC,"Solo Brands, Inc.",Merris John,President and CEO,"Nov 01, 2021",$17.00,14000,238000,28126,"Apr 19, 2022, 09:51 PM",buy
+18,DTC,"Solo Brands, Inc.",Christensen Kent Roger,General Counsel,"Nov 01, 2021",$17.00,1150,19550,1150,"Apr 19, 2022, 09:49 PM",buy
+19,TELA,"TELA Bio, Inc.","EW HEALTHCARE PARTNERS FUND 2, L.P.",See footnote 2,"Apr 14, 2022",$10.00,589,5890,3317509,"Apr 19, 2022, 07:01 PM",buy
+20,TELA,"TELA Bio, Inc.","EW HEALTHCARE PARTNERS FUND 2, L.P.",See footnote 2,"Apr 19, 2022",$9.84,3200,31488,3325709,"Apr 19, 2022, 07:01 PM",buy
+21,TELA,"TELA Bio, Inc.","EW HEALTHCARE PARTNERS FUND 2, L.P.",See footnote 2,"Apr 18, 2022",$9.80,5000,49000,3322509,"Apr 19, 2022, 07:01 PM",buy
+22,PFHO,PACIFIC HEALTH CARE ORGANIZATION INC,KUBOTA TOM,CEO & President,"Apr 19, 2022",$0.93,1618,1505,8034000,"Apr 19, 2022, 06:42 PM",buy
+23,SUP,SUPERIOR INDUSTRIES INTERNATIONAL INC,"Mill Road Capital III, L.P.",10% Owner,"Apr 14, 2022",$5.00,22000,110000,3567867,"Apr 19, 2022, 05:56 PM",buy
+24,CRTD,"Creatd, Inc.",Frommer Jeremy,Executive Chairman,"Apr 19, 2022",$1.12,1278,1434,643683,"Apr 19, 2022, 04:42 PM",buy
+25,LQDA,Liquidia Corp,Manning Paul B,Director,"Apr 18, 2022",$5.10,392156,1999996,392156,"Apr 19, 2022, 04:30 PM",buy
+26,ZDGE,"Zedge, Inc.",GHERMEZIAN MARK,Director,"Apr 18, 2022",$5.81,4355,25300,28253,"Apr 19, 2022, 04:01 PM",buy
+27,VFL,Delaware Investments National Municipal Income Fund,"Saba Capital Management, L.P.",10% Owner,"Apr 18, 2022",$12.06,25388,306179,2661355,"Apr 19, 2022, 02:41 PM",buy
+28,UMH,"UMH PROPERTIES, INC.",Mitchell William Edward,Director,"Apr 18, 2022",$22.88,44,1007,9987,"Apr 19, 2022, 02:41 PM",buy
+29,MDV,MODIV INC.,NOLAN THOMAS H JR,Director,"Jan 18, 2022",$27.29,28,764,9217,"Apr 19, 2022, 02:20 PM",buy
+30,MDV,MODIV INC.,NOLAN THOMAS H JR,Director,"Jan 05, 2022",$27.29,31,846,9189,"Apr 19, 2022, 02:20 PM",buy
+31,MDV,MODIV INC.,NOLAN THOMAS H JR,Director,"Dec 21, 2021",$27.29,30,819,8608,"Apr 19, 2022, 02:20 PM",buy
+32,MDV,MODIV INC.,NOLAN THOMAS H JR,Director,"Feb 25, 2022",$19.45,45,875,9262,"Apr 19, 2022, 02:20 PM",buy
+33,MDV,MODIV INC.,SMITH KIMBERLY J,Director,"Feb 25, 2022",$19.45,1,19,154,"Apr 19, 2022, 02:20 PM",buy
+34,MDV,MODIV INC.,Halfacre Aaron Scott,CEO,"Jan 05, 2022",$27.29,31,846,8642,"Apr 19, 2022, 02:19 PM",buy
+35,MDV,MODIV INC.,Halfacre Aaron Scott,CEO,"Dec 21, 2021",$27.29,30,819,8611,"Apr 19, 2022, 02:19 PM",buy
+36,MDV,MODIV INC.,Halfacre Aaron Scott,CEO,"Feb 25, 2022",$19.45,43,836,8715,"Apr 19, 2022, 02:19 PM",buy
+37,MDV,MODIV INC.,Halfacre Aaron Scott,CEO,"Jan 18, 2022",$27.29,31,846,8672,"Apr 19, 2022, 02:19 PM",buy
+38,UMH,"UMH PROPERTIES, INC.",QUIGLEY KENNETH K JR,Director,"Apr 18, 2022",$22.88,44,1007,13865,"Apr 19, 2022, 02:19 PM",buy
+39,MDV,MODIV INC.,McWilliams Curtis B,Director,"Dec 21, 2021",$27.29,32,873,9199,"Apr 19, 2022, 02:19 PM",buy
+40,MDV,MODIV INC.,McWilliams Curtis B,Director,"Feb 25, 2022",$19.45,48,934,9860,"Apr 19, 2022, 02:19 PM",buy
+41,MDV,MODIV INC.,McWilliams Curtis B,Director,"Jan 18, 2022",$27.29,30,819,9812,"Apr 19, 2022, 02:19 PM",buy
+42,MDV,MODIV INC.,McWilliams Curtis B,Director,"Jan 05, 2022",$27.29,34,928,9782,"Apr 19, 2022, 02:19 PM",buy
+43,MDV,MODIV INC.,Tirondola Connie,Director,"Feb 25, 2022",$19.45,1,19,154,"Apr 19, 2022, 02:18 PM",buy
+44,MDV,MODIV INC.,Ishaq Asma,Director,"Feb 25, 2022",$27.29,1,27,154,"Apr 19, 2022, 02:18 PM",buy
+45,MDV,MODIV INC.,MARKMAN ADAM SCOTT,Director,"Feb 25, 2022",$19.45,47,914,9520,"Apr 19, 2022, 02:17 PM",buy
+46,MDV,MODIV INC.,MARKMAN ADAM SCOTT,Director,"Jan 18, 2022",$27.29,27,737,9474,"Apr 19, 2022, 02:17 PM",buy
+47,MDV,MODIV INC.,MARKMAN ADAM SCOTT,Director,"Jan 05, 2022",$27.29,33,901,9446,"Apr 19, 2022, 02:17 PM",buy
+48,MDV,MODIV INC.,MARKMAN ADAM SCOTT,Director,"Dec 21, 2021",$27.29,31,846,8956,"Apr 19, 2022, 02:17 PM",buy
+49,SMM,Salient Midstream & MLP Fund,"Saba Capital Management, L.P.",10% Owner,"Apr 18, 2022",$8.58,4270,36637,3734183,"Apr 19, 2022, 02:14 PM",buy
+50,CEN,CENTER COAST BROOKFIELD MLP & ENERGY INFRASTRUCTURE FUND,"Saba Capital Management, L.P.",10% Owner,"Apr 18, 2022",$18.34,8102,148591,951865,"Apr 19, 2022, 02:11 PM",buy
+51,MDV.PA,MODIV INC.,NOLAN THOMAS H JR,Director,"Sep 22, 2021",$25.38,394,10000,394,"Apr 19, 2022, 01:52 PM",buy
+52,DCTH,"DELCATH SYSTEMS, INC.","Rosalind Advisors, Inc.",Director,"Apr 18, 2022",$6.35,2000,12697,431500,"Apr 19, 2022, 01:52 PM",buy
+53,DCTH,"DELCATH SYSTEMS, INC.",Aharon Gil,Director,"Apr 18, 2022",$6.35,2000,12697,404000,"Apr 19, 2022, 01:52 PM",buy
+54,CNNE,"Cannae Holdings, Inc.",MOULLET BARRY B,Director,"Apr 18, 2022",$23.06,1000,23064,13915,"Apr 19, 2022, 11:28 AM",buy
+55,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 18, 2022",$2.25,75,169,38542,"Apr 19, 2022, 11:24 AM",buy
+56,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 18, 2022",$2.25,300,675,157708,"Apr 19, 2022, 11:24 AM",buy
+57,RCG,"RENN Fund, Inc.",STAHL MURRAY,President and CEO,"Apr 18, 2022",$2.25,300,675,154300,"Apr 19, 2022, 11:24 AM",buy
+58,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 18, 2022",$1488.81,1,1489,43075,"Apr 19, 2022, 11:09 AM",buy
+59,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 18, 2022",$1488.81,12,17866,205920,"Apr 19, 2022, 11:09 AM",buy
+60,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 18, 2022",$1488.81,3,4466,1645,"Apr 19, 2022, 11:09 AM",buy
+61,TPL,Texas Pacific Land Corp,STAHL MURRAY,Director,"Apr 18, 2022",$1488.81,2,2978,1303,"Apr 19, 2022, 11:09 AM",buy
+62,CVLY,CODORUS VALLEY BANCORP INC,KAUFFMAN CRAIG L,President & CEO,"Apr 18, 2022",$24.29,500,12147,34306,"Apr 19, 2022, 09:25 AM",buy
+63,SHMP,NaturalShrimp Inc,Easterling Gerald,"CEO, President","Apr 18, 2022",$0.20,150000,30582,670240,"Apr 19, 2022, 09:00 AM",buy
+64,OCX,Oncocyte Corp,"PURA VIDA INVESTMENTS, LLC",10% Owner,"Apr 14, 2022",$1.33,767952,1023296,767952,"Apr 18, 2022, 09:55 PM",buy
+65,OCX,Oncocyte Corp,"PURA VIDA INVESTMENTS, LLC",10% Owner,"Apr 14, 2022",$1.33,1993259,2649813,8532663,"Apr 18, 2022, 09:55 PM",buy
+66,OCX,Oncocyte Corp,"PURA VIDA INVESTMENTS, LLC",10% Owner,"Apr 14, 2022",$1.33,1789058,2373975,7473607,"Apr 18, 2022, 09:55 PM",buy
+67,OCX,Oncocyte Corp,"PURA VIDA INVESTMENTS, LLC",10% Owner,"Apr 14, 2022",$1.33,1381438,1840766,1381438,"Apr 18, 2022, 09:55 PM",buy
+68,DCTH,"DELCATH SYSTEMS, INC.",MICHEL GERARD J,See Remarks,"Apr 18, 2022",$6.37,2000,12734,63050,"Apr 18, 2022, 09:23 PM",buy
+69,BCDA;BCDAW,"BioCardia, Inc.",Altman Peter,President and CEO,"Apr 18, 2022",$1.39,13500,18700,328143,"Apr 18, 2022, 09:17 PM",buy
+70,STSS,Sharps Technology Inc.,Ruemler Timothy James,Director,"Apr 13, 2022",$4.25,29400,124950,890406,"Apr 18, 2022, 08:49 PM",buy
+71,STSS,Sharps Technology Inc.,Hayes Robert Michael,Chief Executive Officer,"Apr 18, 2022",$1.88,1000,1879,7000,"Apr 18, 2022, 08:47 PM",buy
+72,STSS,Sharps Technology Inc.,Hayes Robert Michael,Chief Executive Officer,"Apr 14, 2022",$2.27,6000,13620,6000,"Apr 18, 2022, 08:47 PM",buy
+73,STSS,Sharps Technology Inc.,Blackman Alan R.,CIO and COO,"Apr 14, 2022",$4.25,4000,17000,723429,"Apr 18, 2022, 08:45 PM",buy
+74,SREV,"SERVICESOURCE INTERNATIONAL, INC.","Edenbrook Capital, LLC",10% Owner,"Apr 14, 2022",$1.10,3585,3931,20884194,"Apr 18, 2022, 08:39 PM",buy
+75,SHWZ,"Medicine Man Technologies, Inc.",Garwood Jeff,Director,"Apr 13, 2022",$2.06,8000,16488,160735,"Apr 18, 2022, 08:32 PM",buy
+76,PFHO,PACIFIC HEALTH CARE ORGANIZATION INC,KUBOTA TOM,CEO & President,"Apr 18, 2022",$0.85,7382,6311,8032382,"Apr 18, 2022, 08:21 PM",buy
+77,ANNX,"Annexon, Inc.",Love Douglas,President & CEO,"Apr 14, 2022",$2.45,60000,146814,200942,"Apr 18, 2022, 07:04 PM",buy
+78,LQDA,Liquidia Corp,Caligan Partners LP,Director,"Apr 18, 2022",$5.10,1764705,8999995,10093123,"Apr 18, 2022, 06:29 PM",buy
+79,BLK,BlackRock Inc.,FORD WILLIAM E,Director,"Apr 18, 2022",$681.44,2000,1362880,14915,"Apr 18, 2022, 06:06 PM",buy
+80,BLK,BlackRock Inc.,FORD WILLIAM E,Director,"Apr 14, 2022",$701.00,1000,701000,12915,"Apr 18, 2022, 06:06 PM",buy
+81,CRNX,"Crinetics Pharmaceuticals, Inc.",PERCEPTIVE ADVISORS LLC,10% Owner,"Apr 18, 2022",$22.22,157515,3499983,5321032,"Apr 18, 2022, 05:39 PM",buy
+82,FORA,Forian Inc.,WYGOD MARTIN J,Director,"Apr 14, 2022",$4.58,3150,14427,25474,"Apr 18, 2022, 05:31 PM",buy
+83,LBRDA,Liberty Broadband Corp,WARGO J DAVID,Director,"Mar 04, 2022",$132.15,300,39645,31914,"Apr 18, 2022, 04:48 PM",buy
+84,CHCO,CITY HOLDING CO,HYLTON TRACY W II,Director,"Apr 18, 2022",$76.61,164,12564,56650,"Apr 18, 2022, 04:43 PM",buy
+85,CHCO,CITY HOLDING CO,FISHER ROBERT D,Director,"Apr 18, 2022",$76.61,224,17160,39685,"Apr 18, 2022, 04:43 PM",buy
+86,SXT,SENSIENT TECHNOLOGIES CORP,Winder Investment Pte Ltd,10% Owner,"Apr 14, 2022",$82.74,23600,1952650,5462799,"Apr 18, 2022, 04:40 PM",buy
+87,NLSN,Nielsen Holdings plc,WINDACRE PARTNERSHIP LLC,10% Owner,"Apr 14, 2022",$27.35,7116000,194622603,98190100,"Apr 18, 2022, 04:35 PM",buy
+88,RKT,"Rocket Companies, Inc.",Farner Jay,Chief Executive Officer,"Apr 14, 2022",$9.50,21000,199500,1702707,"Apr 18, 2022, 04:32 PM",buy
+89,RKT,"Rocket Companies, Inc.",Farner Jay,Chief Executive Officer,"Apr 18, 2022",$9.25,21600,199800,1724307,"Apr 18, 2022, 04:32 PM",buy
+90,ATAI,ATAI Life Sciences N.V.,Apeiron Investment Group Ltd.,10% Owner,"Apr 14, 2022",$5.19,4967,25779,1358883,"Apr 18, 2022, 04:15 PM",buy
+91,GALT,GALECTIN THERAPEUTICS INC,FREEMAN KEVIN D,Director,"Apr 18, 2022",$1.71,5000,8550,60000,"Apr 18, 2022, 03:59 PM",buy
+92,TREIX,Thirdline Real Estate Income Fund,Eiben Lawrence Scott,Chief Financial Officer,"Apr 14, 2022",$10.01,74923,749979,194016,"Apr 18, 2022, 03:41 PM",buy
+93,AMPG,"AmpliTech Group, Inc.",Mazziota Daniel Richard,Director,"Apr 18, 2022",$2.73,4100,11193,152050,"Apr 18, 2022, 03:28 PM",buy
+94,YORW,YORK WATER CO,Wheeler Mark A,Chief Operating Officer,"Apr 18, 2022",$43.04,113,4863,2747,"Apr 18, 2022, 02:33 PM",buy
+95,YORW,YORK WATER CO,Wheeler Mark A,Chief Operating Officer,"Apr 14, 2022",$41.02,11,451,2633,"Apr 18, 2022, 02:33 PM",buy
+96,YORW,YORK WATER CO,Snyder Mark S,VP-Engineering,"Apr 14, 2022",$41.02,13,533,2763,"Apr 18, 2022, 02:26 PM",buy
+97,YORW,YORK WATER CO,Snyder Mark S,VP-Engineering,"Apr 18, 2022",$43.04,8,344,2770,"Apr 18, 2022, 02:26 PM",buy
+98,YORW,YORK WATER CO,Poff Matthew E,Chief Financial Officer,"Apr 18, 2022",$43.04,3,129,3479,"Apr 18, 2022, 02:19 PM",buy
+99,YORW,YORK WATER CO,Poff Matthew E,Chief Financial Officer,"Apr 14, 2022",$41.02,16,656,3476,"Apr 18, 2022, 02:19 PM",buy
+100,YORW,YORK WATER CO,Hand Joseph Thomas,CEO & President,"Apr 14, 2022",$41.02,98,4020,22187,"Apr 18, 2022, 02:04 PM",buy
+101,YORW,YORK WATER CO,Hand Joseph Thomas,CEO & President,"Apr 18, 2022",$43.04,227,9770,22414,"Apr 18, 2022, 02:04 PM",buy
+1,SGEN,Seagen Inc.,SIEGALL CLAY B,President & CEO,"Apr 20, 2022",$144.32,1885,272041,666060,"Apr 22, 2022, 08:34 PM",sell
+2,SGEN,Seagen Inc.,SIMPSON TODD E,Chief Financial Officer,"Apr 20, 2022",$144.32,567,81829,127891,"Apr 22, 2022, 08:32 PM",sell
+3,SGEN,Seagen Inc.,LIU JEAN I,Chief Legal Officer,"Apr 20, 2022",$144.32,401,57872,75946,"Apr 22, 2022, 08:31 PM",sell
+4,CKPT,"Checkpoint Therapeutics, Inc.",Oliviero James F III,"CEO, President and Director","Apr 13, 2022",$1.51,21258,32100,2838003,"Apr 22, 2022, 08:31 PM",sell
+5,CKPT,"Checkpoint Therapeutics, Inc.",Oliviero James F III,"CEO, President and Director","Apr 05, 2022",$1.77,14030,24833,2859261,"Apr 22, 2022, 08:31 PM",sell
+6,CKPT,"Checkpoint Therapeutics, Inc.",Oliviero James F III,"CEO, President and Director","Apr 04, 2022",$1.79,86353,154572,2873291,"Apr 22, 2022, 08:31 PM",sell
+7,SGEN,Seagen Inc.,ROMP CHARLES R,"EVP, Commercial","Apr 20, 2022",$144.32,319,46038,49816,"Apr 22, 2022, 08:30 PM",sell
+8,SGEN,Seagen Inc.,HIMES VAUGHN B,Chief Technical Officer,"Apr 20, 2022",$144.32,574,82839,59064,"Apr 22, 2022, 08:29 PM",sell
+9,SGEN,Seagen Inc.,DANSEY ROGER D,Chief Medical Officer,"Apr 21, 2022",$144.15,652,93986,76975,"Apr 22, 2022, 08:27 PM",sell
+10,SGEN,Seagen Inc.,DANSEY ROGER D,Chief Medical Officer,"Apr 20, 2022",$144.32,787,113579,77627,"Apr 22, 2022, 08:27 PM",sell
+11,KTOS,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",Mendoza Marie,SVP & General Counsel,"Apr 21, 2022",$18.51,1000,18510,37562,"Apr 22, 2022, 08:09 PM",sell
+12,KTOS,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",Lund Deanna H,EVP & CFO,"Apr 21, 2022",$18.20,10000,181982,259573,"Apr 22, 2022, 08:05 PM",sell
+13,FUSN,Fusion Pharmaceuticals Inc.,Valliant John,Chief Executive Officer,"Apr 21, 2022",$6.01,922,5541,326841,"Apr 22, 2022, 08:04 PM",sell
+14,FUSN,Fusion Pharmaceuticals Inc.,Valliant John,Chief Executive Officer,"Apr 20, 2022",$6.02,367,2209,327763,"Apr 22, 2022, 08:04 PM",sell
+15,BLFS,BIOLIFE SOLUTIONS INC,Schulz Marcus,Chief Revenue Officer,"Apr 21, 2022",$13.94,477,6649,41480,"Apr 22, 2022, 08:00 PM",sell
+16,BLFS,BIOLIFE SOLUTIONS INC,Aebersold Sarah,"VP, Global Human Resources","Apr 21, 2022",$13.94,325,4530,32733,"Apr 22, 2022, 08:00 PM",sell
+17,XSPA,"XpresSpa Group, Inc.",WEINSTEIN ROBERT,Director,"Apr 20, 2022",$1.06,45000,47700,106485,"Apr 22, 2022, 07:59 PM",sell
+18,KTOS,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",DEMARCO ERIC M,President & CEO,"Apr 21, 2022",$17.37,10000,173658,536795,"Apr 22, 2022, 07:58 PM",sell
+19,CXDO,"Crexendo, Inc.",Wang David Tzat-kin,Chief Technology Officer,"Apr 20, 2022",$3.03,4000,12110,422597,"Apr 22, 2022, 07:46 PM",sell
+20,YELP,YELP INC,Nachman Joseph R,Chief Operating Officer,"Apr 21, 2022",$34.81,6000,208877,342102,"Apr 22, 2022, 07:05 PM",sell
+21,LYV,"Live Nation Entertainment, Inc.",Rapino Michael,President & CEO,"Apr 22, 2022",$106.41,78000,8299611,3245962,"Apr 22, 2022, 06:53 PM",sell
+22,LYV,"Live Nation Entertainment, Inc.",Rapino Michael,President & CEO,"Apr 21, 2022",$108.80,78000,8486404,3233888,"Apr 22, 2022, 06:53 PM",sell
+23,LYV,"Live Nation Entertainment, Inc.",Rapino Michael,President & CEO,"Apr 22, 2022",$106.41,78000,8299611,3245962,"Apr 22, 2022, 06:53 PM",sell
+24,LYV,"Live Nation Entertainment, Inc.",Rapino Michael,President & CEO,"Apr 20, 2022",$113.16,78000,8826121,3214565,"Apr 22, 2022, 06:53 PM",sell
+25,LYV,"Live Nation Entertainment, Inc.",Rapino Michael,President & CEO,"Apr 21, 2022",$108.80,78000,8486404,3233888,"Apr 22, 2022, 06:53 PM",sell
+26,LYV,"Live Nation Entertainment, Inc.",Rapino Michael,President & CEO,"Apr 20, 2022",$113.16,78000,8826121,3214565,"Apr 22, 2022, 06:53 PM",sell
+27,HZNP,Horizon Therapeutics Public Ltd Co,Walbert Timothy P,"Chairman, President and CEO","Apr 22, 2022",$106.59,25000,2664632,494136,"Apr 22, 2022, 06:49 PM",sell
+28,PRAA,PRA GROUP INC,STEVENSON KEVIN P,President & CEO,"Apr 21, 2022",$43.92,5000,219600,365949,"Apr 22, 2022, 06:47 PM",sell
+29,PRAA,PRA GROUP INC,STEVENSON KEVIN P,President & CEO,"Apr 20, 2022",$44.89,10000,448863,371574,"Apr 22, 2022, 06:47 PM",sell
+30,SEER,"Seer, Inc.",OSTADAN OMEAD,President & COO,"Apr 20, 2022",$10.18,52042,529933,384080,"Apr 22, 2022, 06:47 PM",sell
+31,HZNP,Horizon Therapeutics Public Ltd Co,Hoelscher Paul W.,"EVP, CFO","Apr 20, 2022",$114.71,50000,5735449,22591,"Apr 22, 2022, 06:47 PM",sell
+32,RDI,READING INTERNATIONAL INC,James J. Cotter Living Trust,10% Owner,"Apr 22, 2022",$4.10,2750,11274,1257149,"Apr 22, 2022, 06:38 PM",sell
+33,RDI,READING INTERNATIONAL INC,James J. Cotter Living Trust,10% Owner,"Apr 21, 2022",$4.13,2750,11346,1259899,"Apr 22, 2022, 06:38 PM",sell
+34,RDI,READING INTERNATIONAL INC,COTTER MARGARET,"Chairperson, EVP - RE Dev/NY","Apr 22, 2022",$4.10,2750,11274,1257149,"Apr 22, 2022, 06:37 PM",sell
+35,RDI,READING INTERNATIONAL INC,COTTER MARGARET,"Chairperson, EVP - RE Dev/NY","Apr 21, 2022",$4.13,2750,11346,1259899,"Apr 22, 2022, 06:37 PM",sell
+36,RDI,READING INTERNATIONAL INC,COTTER ELLEN M,"Vice Chair, President and CEO","Apr 22, 2022",$4.10,2750,11274,1257149,"Apr 22, 2022, 06:36 PM",sell
+37,RDI,READING INTERNATIONAL INC,COTTER ELLEN M,"Vice Chair, President and CEO","Apr 21, 2022",$4.13,2750,11346,1259899,"Apr 22, 2022, 06:36 PM",sell
+38,VNOM,Viper Energy Partners LP,Blackstone Holdings III L.P.,10% Owner,"Apr 21, 2022",$32.13,5643,181321,12525988,"Apr 22, 2022, 06:31 PM",sell
+39,VNOM,Viper Energy Partners LP,Blackstone Holdings III L.P.,10% Owner,"Apr 20, 2022",$31.96,33000,1054700,12531631,"Apr 22, 2022, 06:31 PM",sell
+40,VNOM,Viper Energy Partners LP,BX Guidon Topco LLC,10% Owner,"Apr 21, 2022",$32.13,5643,181321,12525988,"Apr 22, 2022, 06:30 PM",sell
+41,VNOM,Viper Energy Partners LP,BX Guidon Topco LLC,10% Owner,"Apr 20, 2022",$31.96,33000,1054700,12531631,"Apr 22, 2022, 06:30 PM",sell
+42,TGT,TARGET CORP,SYLVESTER CARA A,Executive Officer,"Apr 20, 2022",$250.00,2030,507500,7891,"Apr 22, 2022, 06:14 PM",sell
+43,TGT,TARGET CORP,SANDO JILL,Executive Officer,"Apr 20, 2022",$250.00,2000,500000,25207,"Apr 22, 2022, 06:14 PM",sell
+44,TGT,TARGET CORP,Kremer Melissa K,Executive Officer,"Apr 20, 2022",$250.00,8602,2150500,9909,"Apr 22, 2022, 06:14 PM",sell
+45,UNP,UNION PACIFIC CORP,Rocker Kenyatta G,EVP MARKETING & SALES,"Apr 21, 2022",$250.00,4018,1004500,41177,"Apr 22, 2022, 06:05 PM",sell
+46,TFC,TRUIST FINANCIAL CORP,KING KELLY S,Director,"Apr 21, 2022",$52.55,29,1524,1237,"Apr 22, 2022, 06:03 PM",sell
+47,TFC,TRUIST FINANCIAL CORP,KING KELLY S,Director,"Apr 20, 2022",$52.01,1,52,57408,"Apr 22, 2022, 06:03 PM",sell
+48,LFST,"LifeStance Health Group, Inc.",Mullins Kevin Michael,Chief Development Officer,"Apr 20, 2022",$10.68,46283,494302,5669472,"Apr 22, 2022, 06:00 PM",sell
+49,SI,Silvergate Capital Corp,Fraher Kathleen,Chief Operating Officer,"Apr 22, 2022",$135.00,750,101250,10097,"Apr 22, 2022, 05:59 PM",sell
+50,SI,Silvergate Capital Corp,Fraher Kathleen,Chief Operating Officer,"Apr 21, 2022",$130.43,750,97826,10847,"Apr 22, 2022, 05:59 PM",sell
+51,CI,Cigna Corp,Cordani David,Chairman & CEO,"Apr 20, 2022",$268.10,45380,12166179,196830,"Apr 22, 2022, 05:36 PM",sell
+52,CI,Cigna Corp,Jones Nicole S,"EVP, General Counsel","Apr 20, 2022",$265.00,5918,1568270,36045,"Apr 22, 2022, 05:36 PM",sell
+53,APLS,"Apellis Pharmaceuticals, Inc.",DeLong Mark Jeffrey,Senior Vice President,"Apr 20, 2022",$52.53,7000,367710,28481,"Apr 22, 2022, 05:35 PM",sell
+54,ZI,ZoomInfo Technologies Inc.,CG Subsidiary Holdings L.L.C.,10% Owner,"Apr 20, 2022",$57.00,100,5700,41671145,"Apr 22, 2022, 05:30 PM",sell
+55,MGM,MGM Resorts International,HORNBUCKLE WILLIAM,CEO AND PRESIDENT,"Apr 20, 2022",$43.00,10000,430000,132603,"Apr 22, 2022, 05:27 PM",sell
+56,MGM,MGM Resorts International,HORNBUCKLE WILLIAM,CEO AND PRESIDENT,"Apr 01, 2022",$42.16,40000,1686596,142603,"Apr 22, 2022, 05:25 PM",sell
+57,ZI,ZoomInfo Technologies Inc.,Carlyle Group Inc.,10% Owner,"Apr 20, 2022",$57.00,100,5700,41671145,"Apr 22, 2022, 05:25 PM",sell
+58,NUS,"NU SKIN ENTERPRISES, INC.",LIPMAN ANDREW D,Director,"Apr 22, 2022",$47.72,1000,47720,71214,"Apr 22, 2022, 05:24 PM",sell
+59,MGM,MGM Resorts International,SANDERS COREY IAN,CHIEF OPERATING OFFICER,"Apr 20, 2022",$44.00,100,4400,291069,"Apr 22, 2022, 05:23 PM",sell
+60,MGM,MGM Resorts International,SANDERS COREY IAN,CHIEF OPERATING OFFICER,"Apr 21, 2022",$44.14,796,35134,290273,"Apr 22, 2022, 05:23 PM",sell
+61,UNVR,Univar Solutions Inc.,Jukes David,"President, CEO","Apr 21, 2022",$32.23,50000,1611500,249381,"Apr 22, 2022, 05:19 PM",sell
+62,CRM,"Salesforce, Inc.",Benioff Marc,Chairman and Co-CEO,"Apr 21, 2022",$182.44,2300,419611,28927783,"Apr 22, 2022, 05:19 PM",sell
+63,SYY,SYSCO CORP,Bertrand Greg D,EVP,"Apr 21, 2022",$90.00,50000,4500000,32324,"Apr 22, 2022, 05:06 PM",sell
+64,GLPI,"Gaming & Leisure Properties, Inc.",Moore Brandon John,"EVP, Gen Counsel &amp; Sec","Apr 21, 2022",$48.21,3000,144630,191993,"Apr 22, 2022, 04:56 PM",sell
+65,BSY,BENTLEY SYSTEMS INC,Bentley Raymond B.,Director,"Apr 21, 2022",$44.24,319951,14154118,18145121,"Apr 22, 2022, 04:52 PM",sell
+66,BSY,BENTLEY SYSTEMS INC,Bentley Raymond B.,Director,"Apr 20, 2022",$43.62,144654,6310302,18291472,"Apr 22, 2022, 04:52 PM",sell
+67,VATE,INNOVATE Corp.,Herbst Suzi R,Chief Operating Officer,"Apr 20, 2022",$3.76,5184,19514,208375,"Apr 22, 2022, 04:50 PM",sell
+68,PARR,"PAR PACIFIC HOLDINGS, INC.",CHAI TRUST CO LLC,10% Owner,"Apr 21, 2022",$15.56,655483,10199316,7733122,"Apr 22, 2022, 04:43 PM",sell
+69,PARR,"PAR PACIFIC HOLDINGS, INC.",CHAI TRUST CO LLC,10% Owner,"Apr 20, 2022",$15.72,128126,2013744,7834538,"Apr 22, 2022, 04:43 PM",sell
+70,TNET,"TRINET GROUP, INC.",BINGHAM H RAYMOND,Director,"Apr 21, 2022",$97.09,415,40292,70899,"Apr 22, 2022, 04:42 PM",sell
+71,TNET,"TRINET GROUP, INC.",BINGHAM H RAYMOND,Director,"Apr 20, 2022",$98.48,415,40870,71163,"Apr 22, 2022, 04:42 PM",sell
+72,KDP,Keurig Dr Pepper Inc.,Hopkins Herbert Derek,"President, Cold Beverages","Apr 20, 2022",$37.70,37500,1413825,212110,"Apr 22, 2022, 04:39 PM",sell
+73,BBY,BEST BUY CO INC,Hartman Todd G.,"GC, Chief Risk Officer","Apr 21, 2022",$95.72,1188,113717,34513,"Apr 22, 2022, 04:37 PM",sell
+74,EME,"EMCOR Group, Inc.",Guzzi Anthony,"Chairman, President and CEO","Apr 21, 2022",$120.00,1381,165720,291256,"Apr 22, 2022, 04:35 PM",sell
+75,TALO,TALOS ENERGY INC.,"Riverstone Energy Partners V, L.P.",Director,"Apr 20, 2022",$19.99,128892,2576257,15653900,"Apr 22, 2022, 04:32 PM",sell
+76,TALO,TALOS ENERGY INC.,"Riverstone Energy Partners V, L.P.",Director,"Apr 21, 2022",$19.72,78287,1544127,15538785,"Apr 22, 2022, 04:32 PM",sell
+77,TALO,TALOS ENERGY INC.,RIVERSTONE HOLDINGS LLC,Director,"Apr 21, 2022",$19.72,78287,1544127,15538785,"Apr 22, 2022, 04:30 PM",sell
+78,TALO,TALOS ENERGY INC.,RIVERSTONE HOLDINGS LLC,Director,"Apr 20, 2022",$19.99,128892,2576257,15653900,"Apr 22, 2022, 04:30 PM",sell
+79,FTCI,"FTC Solar, Inc.",ARC Family Trust,10% Owner,"Apr 20, 2022",$3.25,67000,217750,21389357,"Apr 22, 2022, 04:30 PM",sell
+80,TDC,TERADATA CORP /DE/,CHOU TIMOTHY C K,Director,"Apr 20, 2022",$45.82,4092,187495,18229,"Apr 22, 2022, 04:30 PM",sell
+81,UTHR,UNITED THERAPEUTICS Corp,MAHON PAUL A,EVP & GENERAL COUNSEL,"Apr 21, 2022",$189.18,6000,1135078,41887,"Apr 22, 2022, 04:30 PM",sell
+82,PG,PROCTER & GAMBLE Co,Taylor David S,Executive Chairman,"Apr 21, 2022",$164.52,60000,9871458,253933,"Apr 22, 2022, 04:24 PM",sell
+83,PG,PROCTER & GAMBLE Co,Keith R. Alexandra,CEO - Beauty,"Apr 21, 2022",$163.50,6854,1120629,34792,"Apr 22, 2022, 04:22 PM",sell
+84,PG,PROCTER & GAMBLE Co,Keith R. Alexandra,CEO - Beauty,"Apr 21, 2022",$163.50,1335,218273,7571,"Apr 22, 2022, 04:22 PM",sell
+85,CAG,CONAGRA BRANDS INC.,McGough Thomas M,EVP & Co-COO,"Apr 21, 2022",$36.95,25400,938530,96550,"Apr 22, 2022, 04:20 PM",sell
+86,UPST,"Upstart Holdings, Inc.",Nicoll Alison,General Counsel and Secretary,"Apr 20, 2022",$81.30,7500,609786,193367,"Apr 22, 2022, 04:19 PM",sell
+87,ALKS,Alkermes plc.,Jackson Blair Curtis,"EVP, Chief Operating Officer","Apr 20, 2022",$29.61,49999,1480335,87915,"Apr 22, 2022, 04:18 PM",sell
+88,PLMR,"Palomar Holdings, Inc.",Uchida T Christopher,Chief Financial Officer,"Apr 20, 2022",$59.17,500,29585,25925,"Apr 22, 2022, 04:18 PM",sell
+89,GPRO,"GoPro, Inc.",Lapic S Aimee,"SVP, Chf. Digital & Mktg. Off","Apr 20, 2022",$9.00,30642,275781,301045,"Apr 22, 2022, 04:16 PM",sell
+90,CYTK,CYTOKINETICS INC,Blum Robert I,President & CEO,"Apr 20, 2022",$37.89,10000,378867,409124,"Apr 22, 2022, 04:15 PM",sell
+91,CELC,Celcuity Inc.,Buller Richard E,Director,"Apr 20, 2022",$7.34,300,2202,8525,"Apr 22, 2022, 04:13 PM",sell
+92,PGNY,"Progyny, Inc.",Payson Norman,Director,"Apr 21, 2022",$43.21,8330,359950,501426,"Apr 22, 2022, 04:12 PM",sell
+93,PGNY,"Progyny, Inc.",Payson Norman,Director,"Apr 20, 2022",$43.91,8330,365761,512306,"Apr 22, 2022, 04:12 PM",sell
+94,AZO,AUTOZONE INC,Frazer Preston,Executive Vice President,"Apr 20, 2022",$2220.00,1500,3330000,783,"Apr 22, 2022, 04:11 PM",sell
+95,TRV,"TRAVELERS COMPANIES, INC.",Klein Michael Frederick,"EVP & President, Personal Ins.","Apr 21, 2022",$177.92,10000,1779232,9107,"Apr 22, 2022, 04:11 PM",sell
+96,TRV,"TRAVELERS COMPANIES, INC.",HEYMAN WILLIAM H,Vice Chairman,"Apr 21, 2022",$179.19,3013,539902,251605,"Apr 22, 2022, 04:09 PM",sell
+97,MRNA,"Moderna, Inc.",Andres Juan,See remarks,"Apr 20, 2022",$153.00,2000,306000,9069,"Apr 22, 2022, 04:08 PM",sell
+98,EXPI,"EXP World Holdings, Inc.",Sanford Glenn Darrel,CEO and Chairman of the Board,"Apr 20, 2022",$16.48,9000,148327,42034338,"Apr 22, 2022, 04:08 PM",sell
+99,EXPI,"EXP World Holdings, Inc.",Sanford Glenn Darrel,CEO and Chairman of the Board,"Apr 21, 2022",$15.80,9000,142204,42036118,"Apr 22, 2022, 04:08 PM",sell
+100,ESTE,EARTHSTONE ENERGY INC,Lumpkin Mark Jr,EVP and CFO,"Apr 21, 2022",$16.47,30000,494100,208253,"Apr 22, 2022, 04:08 PM",sell
+1,TRV,"TRAVELERS COMPANIES, INC.",Frey Daniel S.,EVP & Chief Financial Officer,"Apr 21, 2022",$177.81,16710,2971150,5640,"Apr 22, 2022, 04:06 PM",sell
+2,MRNA,"Moderna, Inc.",Bancel Stephane,Chief Executive Officer,"Apr 21, 2022",$149.43,10000,1494300,6924880,"Apr 22, 2022, 04:05 PM",sell
+3,MRNA,"Moderna, Inc.",Bancel Stephane,Chief Executive Officer,"Apr 20, 2022",$150.59,9000,1355282,5443106,"Apr 22, 2022, 04:05 PM",sell
+4,FITB,FIFTH THIRD BANCORP,CARMICHAEL GREG D,"CEO, Chair","Apr 21, 2022",$40.05,50000,2002500,644745,"Apr 22, 2022, 04:03 PM",sell
+5,IBKR,"Interactive Brokers Group, Inc.",Peterffy Thomas,Chairman,"Apr 21, 2022",$64.78,20000,1295633,2962311,"Apr 22, 2022, 04:01 PM",sell
+6,IBKR,"Interactive Brokers Group, Inc.",Peterffy Thomas,Chairman,"Apr 20, 2022",$66.73,20000,1334607,2987111,"Apr 22, 2022, 04:01 PM",sell
+7,GIS,GENERAL MILLS INC,OGrady Shawn P,Group President,"Apr 20, 2022",$71.90,43565,3132324,87555,"Apr 22, 2022, 03:42 PM",sell
+8,PGR,PROGRESSIVE CORP/OH/,Mascaro Daniel P,"Vice Pres, Secretary and CLO","Apr 21, 2022",$113.59,558,63383,39445,"Apr 22, 2022, 03:41 PM",sell
+9,CLNN,Clene Inc.,General Resonance LLC,10% Owner,"Apr 21, 2022",$3.01,132891,400002,15742030,"Apr 22, 2022, 03:18 PM",sell
+10,AIR,AAR CORP,Holmes John McClain III,President & CEO,"Apr 20, 2022",$51.19,25000,1279842,244041,"Apr 22, 2022, 03:04 PM",sell
+11,MLAB,MESA LABORATORIES INC /CO/,Sakys John,CFO,"Apr 20, 2022",$250.44,72,18032,7514,"Apr 22, 2022, 01:17 PM",sell
+12,CAT,CATERPILLAR INC,Long Suzette M,CLO/General Counsel,"Apr 20, 2022",$235.00,3816,896760,10549,"Apr 22, 2022, 12:59 PM",sell
+13,CAT,CATERPILLAR INC,Creed Joseph E,Group President,"Apr 20, 2022",$235.00,5004,1175940,2757,"Apr 22, 2022, 12:59 PM",sell
+14,PRVA,"Privia Health Group, Inc.",Mehrotra Parth,President and COO,"Apr 20, 2022",$27.93,20000,558600,97391,"Apr 22, 2022, 12:31 PM",sell
+15,KR,KROGER CO,Massa Timothy A,Senior Vice President,"Apr 21, 2022",$58.03,50283,2917774,198239,"Apr 22, 2022, 12:15 PM",sell
+16,CBSH,COMMERCE BANCSHARES INC /MO/,Brooks Derrick,Senior Vice President,"Apr 21, 2022",$74.12,87,6448,8993,"Apr 22, 2022, 11:31 AM",sell
+17,CHH,CHOICE HOTELS INTERNATIONAL INC /DE,Pepper David A,Chief Development Officer,"Apr 20, 2022",$150.07,300,45021,30312,"Apr 22, 2022, 11:20 AM",sell
+18,SLVM,Sylvamo Corp,INTERNATIONAL PAPER CO /NEW/,10% Owner,"Apr 21, 2022",$34.75,4132000,143587000,4614358,"Apr 22, 2022, 11:03 AM",sell
+19,CCF,CHASE CORP,CHASE ADAM,PRESIDENT/CEO,"Apr 21, 2022",$90.00,1000,90000,189135,"Apr 22, 2022, 11:01 AM",sell
+20,PRVA,"Privia Health Group, Inc.",Bartrum Thomas,"EVP, General Counsel","Apr 20, 2022",$27.93,10000,279300,27391,"Apr 22, 2022, 09:18 AM",sell
+21,ALVR,"Allovir, Inc.",Hallal David,Director,"Apr 21, 2022",$5.87,4227,24812,2143614,"Apr 22, 2022, 08:31 AM",sell
+22,ALVR,"Allovir, Inc.",Sinha Vikas,See Remarks,"Apr 20, 2022",$6.68,1162,7767,906633,"Apr 22, 2022, 08:29 AM",sell
+23,ALVR,"Allovir, Inc.",VAN BEEK JEROEN B,Chief Commercial Officer,"Apr 20, 2022",$6.68,852,5695,404788,"Apr 22, 2022, 08:28 AM",sell
+24,ALTR,Altair Engineering Inc.,Simon David L,Chief Administrative Officer,"Mar 09, 2020",$28.83,97,2796,25778,"Apr 22, 2022, 08:25 AM",sell
+25,ALVR,"Allovir, Inc.",Atillasoy Ercem,See Remarks,"Apr 21, 2022",$5.86,1587,9301,121563,"Apr 22, 2022, 08:23 AM",sell
+26,ALVR,"Allovir, Inc.",Atillasoy Ercem,See Remarks,"Apr 20, 2022",$6.68,453,3028,123150,"Apr 22, 2022, 08:23 AM",sell
+27,ALVR,"Allovir, Inc.",Hagen Brett R,Chief Accounting Officer,"Apr 20, 2022",$6.68,276,1845,80368,"Apr 22, 2022, 08:20 AM",sell
+28,SST,"System1, Inc.",Lone Star Friends Trust,10% Owner,"Apr 19, 2022",$20.14,285459,5749144,2751688,"Apr 21, 2022, 09:47 PM",sell
+29,AN,"AUTONATION, INC.",LAMPERT EDWARD S,10% Owner,"Apr 19, 2022",$108.70,13391,1455631,9280959,"Apr 21, 2022, 09:30 PM",sell
+30,CTKB,"Cytek Biosciences, Inc.",Yan Ming,Chief Technology Officer,"Apr 19, 2022",$10.34,20000,206800,8122803,"Apr 21, 2022, 08:58 PM",sell
+31,CMPI,"Checkmate Pharmaceuticals, Inc.",venBio Global Strategic Fund II L.P.,10% Owner,"Apr 20, 2022",$10.39,85611,889387,3187840,"Apr 21, 2022, 08:54 PM",sell
+32,CMPI,"Checkmate Pharmaceuticals, Inc.",venBio Global Strategic Fund II L.P.,10% Owner,"Apr 19, 2022",$10.42,399923,4165238,3273451,"Apr 21, 2022, 08:54 PM",sell
+33,CMPI,"Checkmate Pharmaceuticals, Inc.",venBio Global Strategic Fund II L.P.,10% Owner,"Apr 21, 2022",$10.38,62200,645866,3125640,"Apr 21, 2022, 08:54 PM",sell
+34,GOOG,Alphabet Inc.,Page Lawrence,Director,"Apr 19, 2022",$2611.38,1956,5107853,19514870,"Apr 21, 2022, 08:49 PM",sell
+35,GOOG,Alphabet Inc.,Page Lawrence,Director,"Apr 19, 2022",$2590.79,11932,30913303,19527302,"Apr 21, 2022, 08:42 PM",sell
+36,GOOG,Alphabet Inc.,Page Lawrence,Director,"Apr 19, 2022",$2602.65,758,1972808,400,"Apr 21, 2022, 08:41 PM",sell
+37,GOOG,Alphabet Inc.,Page Lawrence,Director,"Apr 19, 2022",$2582.86,13130,33912961,13688,"Apr 21, 2022, 08:40 PM",sell
+38,ZM,"Zoom Video Communications, Inc.",Bawa Aparna,Chief Operating Officer,"Apr 20, 2022",$109.08,404,44068,89068,"Apr 21, 2022, 08:17 PM",sell
+39,ZM,"Zoom Video Communications, Inc.",Bawa Aparna,Chief Operating Officer,"Apr 19, 2022",$109.92,2000,219846,91372,"Apr 21, 2022, 08:17 PM",sell
+40,FNKO,"Funko, Inc.",Mariotti Brian Richard,CHIEF CREATIVE OFFICER,"Apr 19, 2022",$17.65,16820,296873,58138,"Apr 21, 2022, 08:11 PM",sell
+41,ZIP,"ZIPRECRUITER, INC.",SAKAMOTO RYAN T.,General Counsel and Secretary,"Apr 20, 2022",$24.30,1787,43424,73996,"Apr 21, 2022, 08:01 PM",sell
+42,ZIP,"ZIPRECRUITER, INC.",Garefis Amy,Chief Accounting Officer,"Apr 19, 2022",$25.00,3611,90275,123199,"Apr 21, 2022, 08:00 PM",sell
+43,SEAT,Vivid Seats Inc.,Wagner Jonathan Miles,Chief Technology Officer,"Apr 20, 2022",$10.35,1790,18527,8571,"Apr 21, 2022, 08:00 PM",sell
+44,SEAT,Vivid Seats Inc.,Pickus Edward,Chief Accounting Officer,"Apr 20, 2022",$10.35,525,5434,2470,"Apr 21, 2022, 07:59 PM",sell
+45,SEAT,Vivid Seats Inc.,Morris David E.,General Counsel,"Apr 20, 2022",$10.35,445,4606,2028,"Apr 21, 2022, 07:57 PM",sell
+46,SEAT,Vivid Seats Inc.,Bakal Riva,"SVP, Strategy & Product","Apr 20, 2022",$10.35,1136,11758,5216,"Apr 21, 2022, 07:56 PM",sell
+47,FRSH,Freshworks Inc.,Morales Jose,Chief Revenue Officer,"Apr 19, 2022",$20.00,1984,39680,0,"Apr 21, 2022, 07:47 PM",sell
+48,FXLV,F45 Training Holdings Inc.,Wahlberg Mark,Director,"Apr 21, 2022",$10.44,40743,425357,1721606,"Apr 21, 2022, 07:36 PM",sell
+49,FXLV,F45 Training Holdings Inc.,Wahlberg Mark,Director,"Apr 20, 2022",$10.62,30000,318600,1762349,"Apr 21, 2022, 07:36 PM",sell
+50,FXLV,F45 Training Holdings Inc.,Wahlberg Mark,Director,"Apr 19, 2022",$10.58,29100,307878,1792349,"Apr 21, 2022, 07:36 PM",sell
+51,HCAT,"Health Catalyst, Inc.",Llewelyn Linda,Chief People Officer,"Apr 18, 2022",$22.58,2039,46050,62233,"Apr 21, 2022, 07:10 PM",sell
+52,CRXT,CLARUS THERAPEUTICS INC,THOMAS MCNERNEY & PARTNERS LP,10% Owner,"Apr 20, 2022",$2.53,3752912,9494867,958989,"Apr 21, 2022, 07:04 PM",sell
+53,KRTX,"Karuna Therapeutics, Inc.",Ignelzi Troy A.,Chief Financial Officer,"Apr 21, 2022",$134.46,40,5378,24970,"Apr 21, 2022, 07:04 PM",sell
+54,KRTX,"Karuna Therapeutics, Inc.",Ignelzi Troy A.,Chief Financial Officer,"Apr 20, 2022",$133.20,704,93773,24970,"Apr 21, 2022, 07:04 PM",sell
+55,KRTX,"Karuna Therapeutics, Inc.",Ignelzi Troy A.,Chief Financial Officer,"Apr 19, 2022",$130.81,3500,457835,24970,"Apr 21, 2022, 07:04 PM",sell
+56,FB,"Meta Platforms, Inc.",Newstead Jennifer,Chief Legal Officer,"Apr 19, 2022",$210.70,476,100294,13450,"Apr 21, 2022, 06:57 PM",sell
+57,CBL,CBL & ASSOCIATES PROPERTIES INC,"Oaktree Capital Management GP, LLC",10% Owner,"Apr 19, 2022",$31.00,585735,18158140,535735,"Apr 21, 2022, 06:45 PM",sell
+58,CBL,CBL & ASSOCIATES PROPERTIES INC,OAKTREE CAPITAL MANAGEMENT LP,10% Owner,"Apr 19, 2022",$31.00,585735,18158140,535735,"Apr 21, 2022, 06:43 PM",sell
+59,SITM,SITIME Corp,VASHIST RAJESH,Chief Executive Officer,"Apr 20, 2022",$180.89,5000,904450,613300,"Apr 21, 2022, 06:41 PM",sell
+60,CRM,"Salesforce, Inc.",Benioff Marc,Chairman and Co-CEO,"Apr 20, 2022",$187.87,2300,432100,28927561,"Apr 21, 2022, 06:39 PM",sell
+61,CMC,COMMERCIAL METALS Co,Smith Barbara,"Chairman, President & CEO","Apr 21, 2022",$46.52,11418,531165,508785,"Apr 21, 2022, 06:37 PM",sell
+62,CMC,COMMERCIAL METALS Co,Smith Barbara,"Chairman, President & CEO","Apr 20, 2022",$46.46,13582,631020,520203,"Apr 21, 2022, 06:37 PM",sell
+63,SGEN,Seagen Inc.,GRYSKA DAVID W,Director,"Apr 19, 2022",$143.95,4000,575783,46250,"Apr 21, 2022, 06:37 PM",sell
+64,ARQT,"Arcutis Biotherapeutics, Inc.",OSBORNE DAVID W,Chief Technical Officer,"Apr 21, 2022",$20.42,2197,44872,257229,"Apr 21, 2022, 06:32 PM",sell
+65,SPT,"Sprout Social, Inc.",Rankin Aaron Edward Frederick,Chief Technology Officer,"Apr 20, 2022",$68.63,32000,2196058,21013,"Apr 21, 2022, 06:11 PM",sell
+66,TRGP,Targa Resources Corp.,Muraro Robert,Chief Commercial Officer,"Apr 20, 2022",$80.10,10000,801044,186947,"Apr 21, 2022, 06:08 PM",sell
+67,FPH,"Five Point Holdings, LLC","Luxor Capital Group, LP",10% Owner,"Apr 20, 2022",$6.04,8784,53063,126210,"Apr 21, 2022, 06:07 PM",sell
+68,FPH,"Five Point Holdings, LLC","Luxor Capital Group, LP",10% Owner,"Apr 19, 2022",$5.97,45208,269676,178599,"Apr 21, 2022, 06:07 PM",sell
+69,FPH,"Five Point Holdings, LLC","Luxor Capital Group, LP",10% Owner,"Apr 21, 2022",$6.03,11206,67589,115004,"Apr 21, 2022, 06:07 PM",sell
+70,S,"SentinelOne, Inc.",Bernhardt David J.,Chief Financial Officer,"Apr 20, 2022",$36.33,3850,139874,107032,"Apr 21, 2022, 05:57 PM",sell
+71,S,"SentinelOne, Inc.",Bernhardt David J.,Chief Financial Officer,"Apr 19, 2022",$36.92,3850,142124,110082,"Apr 21, 2022, 05:57 PM",sell
+72,ETR,ENTERGY CORP /DE/,NORGEOT PETER S JR,"SVP, Operations & Development","Apr 20, 2022",$125.62,4068,511022,25355,"Apr 21, 2022, 05:56 PM",sell
+73,NEWR,"NEW RELIC, INC.",Sachleben Mark,Chief Financial Officer,"Apr 20, 2022",$70.52,15616,1101240,16524,"Apr 21, 2022, 05:54 PM",sell
+74,NEWR,"NEW RELIC, INC.",Staples William,Chief Executive Officer,"Apr 20, 2022",$70.54,13175,929365,45492,"Apr 21, 2022, 05:50 PM",sell
+75,PBF,PBF Energy Inc.,Control Empresarial de Capitales S.A. de C.V.,10% Owner,"Mar 19, 2022",$29.68,346060,10270562,23218183,"Apr 21, 2022, 05:50 PM",sell
+76,PBF,PBF Energy Inc.,Control Empresarial de Capitales S.A. de C.V.,10% Owner,"Mar 20, 2022",$29.21,1000000,29212900,22217123,"Apr 21, 2022, 05:50 PM",sell
+77,PSMT,PRICESMART INC,Maslowski Nicolas,EVP-Member Experience,"Apr 19, 2022",$81.59,2839,231634,14060,"Apr 21, 2022, 05:49 PM",sell
+78,PSMT,PRICESMART INC,Biehl Juan Ignacio,EVP and CTO,"Apr 19, 2022",$82.37,3230,266054,9131,"Apr 21, 2022, 05:48 PM",sell
+79,COOP,Mr. Cooper Group Inc.,Bray Jesse K,Chief Executive Officer,"Apr 20, 2022",$46.50,46000,2139000,1094915,"Apr 21, 2022, 05:47 PM",sell
+80,NEWR,"NEW RELIC, INC.",Friedrichs Kristy,Chief Operating Officer,"Apr 20, 2022",$70.47,3472,244672,10380,"Apr 21, 2022, 05:38 PM",sell
+81,CXM,"Sprinklr, Inc.",Lazzaron Luca,Chief Revenue Officer,"Apr 20, 2022",$13.59,5800,78822,528148,"Apr 21, 2022, 05:37 PM",sell
+82,CXM,"Sprinklr, Inc.",Lazzaron Luca,Chief Revenue Officer,"Apr 19, 2022",$13.52,15000,202800,528148,"Apr 21, 2022, 05:37 PM",sell
+83,DASH,"DoorDash, Inc.",Fang Andy,Director,"Apr 19, 2022",$102.43,40000,4097314,61546,"Apr 21, 2022, 05:37 PM",sell
+84,DASH,"DoorDash, Inc.",Fang Andy,Director,"Apr 20, 2022",$102.52,40000,4100781,60330,"Apr 21, 2022, 05:37 PM",sell
+85,NEWR,"NEW RELIC, INC.",Hurn Steve,Chief Sales Officer,"Apr 20, 2022",$70.52,4642,327354,24329,"Apr 21, 2022, 05:36 PM",sell
+86,CRWD,"CrowdStrike Holdings, Inc.",Henry Shawn,Please see remarks,"Apr 19, 2022",$228.02,20839,4751636,210985,"Apr 21, 2022, 05:35 PM",sell
+87,PRGS,PROGRESS SOFTWARE CORP /MA,Gupta Yogesh K,Chief Executive Officer,"Mar 21, 2022",$45.35,5000,226726,95000,"Apr 21, 2022, 05:32 PM",sell
+88,ENFN,"Enfusion, Inc.",Bernstein Bradford E,Director,"Oct 25, 2021",$15.90,4075531,64780567,31297606,"Apr 21, 2022, 05:30 PM",sell
+89,FSLY,"Fastly, Inc.",KISLING RONALD W,Chief Financial Officer,"Apr 20, 2022",$17.99,4825,86802,301143,"Apr 21, 2022, 05:12 PM",sell
+90,FSLY,"Fastly, Inc.",KISLING RONALD W,Chief Financial Officer,"Apr 19, 2022",$19.06,5083,96882,305968,"Apr 21, 2022, 05:12 PM",sell
+91,COUR,"Coursera, Inc.",Ng Andrew Y.,Director,"Apr 19, 2022",$22.42,40000,896999,7533505,"Apr 21, 2022, 05:10 PM",sell
+92,LIND,"LINDBLAD EXPEDITIONS HOLDINGS, INC.",Dryden L. Dyson,Director,"Apr 19, 2022",$16.03,20837,334105,1008985,"Apr 21, 2022, 05:03 PM",sell
+93,CDLX,"Cardlytics, Inc.",Grimes Scott D.,Director,"Apr 19, 2022",$50.09,4098,205269,243606,"Apr 21, 2022, 05:03 PM",sell
+94,SMCI,"Super Micro Computer, Inc.",Liang Charles,President and CEO,"Apr 19, 2022",$42.00,5388,226296,45305,"Apr 21, 2022, 05:02 PM",sell
+95,GMED,GLOBUS MEDICAL INC,Davidar David D,Director,"Apr 19, 2022",$78.03,31500,2458071,601275,"Apr 21, 2022, 05:00 PM",sell
+96,SMCI,"Super Micro Computer, Inc.",Liu Liang Chiu-Chu Sara,Director,"Apr 19, 2022",$42.00,5388,226296,45305,"Apr 21, 2022, 05:00 PM",sell
+97,CRNX,"Crinetics Pharmaceuticals, Inc.",Betz Stephen F.,Chief Scientific Officer,"Apr 18, 2022",$25.81,5664,146188,110845,"Apr 21, 2022, 05:00 PM",sell
+98,SNCY,"Sun Country Airlines Holdings, Inc.",Levenhagen Eric,"Chief Admin. Off., GC & Sec.","Apr 19, 2022",$27.63,59349,1640074,1337,"Apr 21, 2022, 04:52 PM",sell
+99,SNCY,"Sun Country Airlines Holdings, Inc.",Davis Brian Edward,Chief Marketing Officer & SVP,"Apr 20, 2022",$27.89,1000,27889,1337,"Apr 21, 2022, 04:49 PM",sell
+100,DXLG,"DESTINATION XL GROUP, INC.","AWM Investment Company, Inc.",10% Owner,"Apr 20, 2022",$5.11,50000,255475,10976748,"Apr 21, 2022, 04:48 PM",sell
+101,DXLG,"DESTINATION XL GROUP, INC.","AWM Investment Company, Inc.",10% Owner,"Apr 19, 2022",$5.36,55045,294800,11079384,"Apr 21, 2022, 04:48 PM",sell
+102,DXLG,"DESTINATION XL GROUP, INC.","AWM Investment Company, Inc.",10% Owner,"Apr 21, 2022",$5.11,6314,32265,10970434,"Apr 21, 2022, 04:48 PM",sell
+1,DXLG,"DESTINATION XL GROUP, INC.","AWM Investment Company, Inc.",10% Owner,"Apr 21, 2022",$5.11,6314,32265,10970434,"Apr 21, 2022, 04:48 PM",sell
+2,DXLG,"DESTINATION XL GROUP, INC.","AWM Investment Company, Inc.",10% Owner,"Apr 20, 2022",$5.11,50000,255475,10976748,"Apr 21, 2022, 04:48 PM",sell
+3,DXLG,"DESTINATION XL GROUP, INC.","AWM Investment Company, Inc.",10% Owner,"Apr 19, 2022",$5.36,55045,294800,11079384,"Apr 21, 2022, 04:48 PM",sell
+4,NRC,NATIONAL RESEARCH CORP,Amandla MK Trust,10% Owner,"Apr 19, 2022",$39.90,1322,52743,5934272,"Apr 21, 2022, 04:48 PM",sell
+5,NRC,NATIONAL RESEARCH CORP,Amandla MK Trust,10% Owner,"Apr 20, 2022",$39.92,2200,87813,5932072,"Apr 21, 2022, 04:48 PM",sell
+6,VRSN,VERISIGN INC/CA,BIDZOS D JAMES,Exec. Chairman & CEO,"Apr 20, 2022",$219.93,13000,2859068,711815,"Apr 21, 2022, 04:45 PM",sell
+7,VRSN,VERISIGN INC/CA,BIDZOS D JAMES,Exec. Chairman & CEO,"Apr 19, 2022",$213.97,3000,641898,715812,"Apr 21, 2022, 04:45 PM",sell
+8,CAG,CONAGRA BRANDS INC.,Batcheler Colleen,EVP Gen Counsel & Corp Secty,"Apr 19, 2022",$36.02,72480,2610730,159944,"Apr 21, 2022, 04:41 PM",sell
+9,SST,"System1, Inc.","Cannae Holdings, Inc.",10% Owner,"Apr 20, 2022",$14.03,165280,2319242,26453256,"Apr 21, 2022, 04:40 PM",sell
+10,SST,"System1, Inc.","Cannae Holdings, Inc.",10% Owner,"Apr 19, 2022",$13.99,563264,7881886,26953245,"Apr 21, 2022, 04:40 PM",sell
+11,AQUA,Evoqua Water Technologies Corp.,Bhambri Nick,Director,"Apr 20, 2022",$45.08,87641,3950900,23765,"Apr 21, 2022, 04:36 PM",sell
+12,AQUA,Evoqua Water Technologies Corp.,Bhambri Nick,Director,"Apr 19, 2022",$45.01,37359,1681402,23765,"Apr 21, 2022, 04:36 PM",sell
+13,VATE,INNOVATE Corp.,Herbst Suzi R,Chief Operating Officer,"Apr 12, 2022",$3.75,200,750,213559,"Apr 21, 2022, 04:32 PM",sell
+14,AWI,ARMSTRONG WORLD INDUSTRIES INC,Hershey Mark A,SVP Americas,"Apr 21, 2022",$95.11,1365,129825,45053,"Apr 21, 2022, 04:31 PM",sell
+15,STE,STERIS plc,Zangerle John Adam,"Sr. VP, Gen Counsel, and Sec.","Apr 20, 2022",$255.48,8000,2043876,31023,"Apr 21, 2022, 04:30 PM",sell
+16,ABNB,"Airbnb, Inc.",Stephenson Dave,Chief Financial Officer,"Dec 10, 2021",$177.81,35000,6223350,229524,"Apr 21, 2022, 04:30 PM",sell
+17,ABNB,"Airbnb, Inc.",Bernstein David C,Chief Accounting Officer,"Dec 10, 2021",$177.81,100000,17781000,55465,"Apr 21, 2022, 04:30 PM",sell
+18,GS,GOLDMAN SACHS GROUP INC,SOLOMON DAVID M,Chairman of the Board and CEO,"Apr 19, 2022",$334.57,9768,3268080,96467,"Apr 21, 2022, 04:30 PM",sell
+19,MYOV,Myovant Sciences Ltd.,Lang Matthew,General Counsel & Corp. Secy.,"Apr 19, 2022",$10.45,8002,83621,276037,"Apr 21, 2022, 04:28 PM",sell
+20,MYOV,Myovant Sciences Ltd.,Arjona Ferreira Juan Camilo,Chief Medical Officer,"Apr 19, 2022",$10.45,4632,48404,260129,"Apr 21, 2022, 04:27 PM",sell
+21,BSX,BOSTON SCIENTIFIC CORP,Mirviss Jeffrey B.,"EVP&Pres, Periph Intervent","Apr 20, 2022",$46.50,9645,448493,110316,"Apr 21, 2022, 04:26 PM",sell
+22,MYOV,Myovant Sciences Ltd.,Merendino Lauren,Chief Commercial Officer,"Apr 19, 2022",$10.45,7049,73662,174953,"Apr 21, 2022, 04:25 PM",sell
+23,MYOV,Myovant Sciences Ltd.,Marek David C,Principal Executive Officer,"Apr 19, 2022",$10.45,24594,257007,447956,"Apr 21, 2022, 04:25 PM",sell
+24,PG,PROCTER & GAMBLE Co,Francisco Ma. Fatima,"CEO - Baby, Fem & Family Care","Apr 21, 2022",$164.10,18000,2953849,7020,"Apr 21, 2022, 04:23 PM",sell
+25,SMFR,Sema4 Holdings Corp.,Saad Kareem,Chief Business Officer,"Apr 20, 2022",$2.49,6269,15610,64289,"Apr 21, 2022, 04:21 PM",sell
+26,CNXN,PC CONNECTION INC,GALLUP PATRICIA,Chairman & Chief Admin Officer,"Apr 20, 2022",$52.63,4399,231519,7156037,"Apr 21, 2022, 04:17 PM",sell
+27,CNXN,PC CONNECTION INC,GALLUP PATRICIA,Chairman & Chief Admin Officer,"Apr 19, 2022",$52.12,2589,134939,7160436,"Apr 21, 2022, 04:17 PM",sell
+28,SWAV,"Shockwave Medical, Inc.",WATKINS FRANK T,Director,"Apr 20, 2022",$206.01,3000,618020,26102,"Apr 21, 2022, 04:17 PM",sell
+29,GLW,CORNING INC /NY,France Robert P.,"Senior VP, Human Resources","Apr 20, 2022",$35.03,2190,76706,30000,"Apr 21, 2022, 04:16 PM",sell
+30,GLW,CORNING INC /NY,Bell Michael Alan,"Senior VP & GM, Optical Comm.","Apr 20, 2022",$35.03,3355,117521,0,"Apr 21, 2022, 04:15 PM",sell
+31,TYME,"TYME TECHNOLOGIES, INC.",Demurjian Michael,10% Owner,"Apr 19, 2022",$0.32,40000,12940,23648846,"Apr 21, 2022, 04:12 PM",sell
+32,TYME,"TYME TECHNOLOGIES, INC.",Demurjian Michael,10% Owner,"Apr 20, 2022",$0.32,40000,12952,23608846,"Apr 21, 2022, 04:12 PM",sell
+33,QLYS,"QUALYS, INC.",POSEY BRUCE K,Chief Legal Officer,"Apr 20, 2022",$146.64,9500,1393041,77859,"Apr 21, 2022, 04:10 PM",sell
+34,BRX,Brixmor Property Group Inc.,Taylor James M Jr,President and CEO,"Apr 19, 2022",$26.50,20000,530000,506661,"Apr 21, 2022, 04:07 PM",sell
+35,BRX,Brixmor Property Group Inc.,SIEGEL STEVEN F,See Remarks,"Apr 19, 2022",$26.50,20000,530000,304000,"Apr 21, 2022, 04:06 PM",sell
+36,BRX,Brixmor Property Group Inc.,SIEGEL STEVEN F,See Remarks,"Apr 20, 2022",$27.00,20000,540000,284000,"Apr 21, 2022, 04:06 PM",sell
+37,BWB,Bridgewater Bancshares Inc,Baack Jerry J.,PRESIDENT & CEO,"Apr 20, 2022",$16.79,4166,69938,1207140,"Apr 21, 2022, 04:06 PM",sell
+38,AGL,"agilon health, inc.",Desai Veeral,Chief Strategy & Dev. Officer,"Apr 19, 2022",$22.74,106357,2418558,278211,"Apr 21, 2022, 04:05 PM",sell
+39,AGL,"agilon health, inc.",Desai Veeral,Chief Strategy & Dev. Officer,"Apr 20, 2022",$22.34,106357,2376015,278211,"Apr 21, 2022, 04:05 PM",sell
+40,FATE,FATE THERAPEUTICS INC,Chu Yu-Waye,Chief Medical Officer,"Apr 19, 2022",$35.37,4062,143673,151033,"Apr 21, 2022, 04:04 PM",sell
+41,PTCT,"PTC THERAPEUTICS, INC.",Klein Matthew B.,CHIEF OPERATING OFFICER,"Apr 19, 2022",$42.51,897,38136,56564,"Apr 21, 2022, 04:03 PM",sell
+42,PTCT,"PTC THERAPEUTICS, INC.",Pauwels Eric,CHIEF BUSINESS OFFICER,"Apr 19, 2022",$42.51,822,34947,49772,"Apr 21, 2022, 04:02 PM",sell
+43,MRVL,"Marvell Technology, Inc.",Nguyen Loi,"EVP, Optical & CC Grp","Apr 20, 2022",$64.48,10247,660727,207687,"Apr 21, 2022, 03:59 PM",sell
+44,MPLX,MPLX LP,Floerke Gregory Scott,Exec. VP and COO,"Apr 19, 2022",$35.00,2500,87500,80212,"Apr 21, 2022, 03:33 PM",sell
+45,MKC,MCCORMICK & CO INC,Smith Michael R,Executive VP & CFO,"Apr 20, 2022",$104.04,19986,2079357,93025,"Apr 21, 2022, 03:20 PM",sell
+46,NTGR,"NETGEAR, INC.",Cormack Heidi,"SVP, Marketing","Apr 21, 2022",$22.52,2105,47405,61421,"Apr 21, 2022, 02:48 PM",sell
+47,BUDZ,"WEED, INC.",BREEN NICOLE M,Secretary/Treasurer,"Apr 18, 2022",$0.23,35000,8225,21085584,"Apr 21, 2022, 02:43 PM",sell
+48,WSFS,WSFS FINANCIAL CORP,WRIGHT RICHARD,EVP,"Apr 19, 2022",$42.03,1973,82925,42196,"Apr 21, 2022, 01:47 PM",sell
+49,MLI,MUELLER INDUSTRIES INC,HANSEN JOHN B,Director,"Apr 21, 2022",$60.33,2000,120660,57885,"Apr 21, 2022, 11:01 AM",sell
+50,WOR,WORTHINGTON INDUSTRIES INC,RIBEAU SIDNEY A,Director,"Apr 20, 2022",$57.16,8000,457280,58505,"Apr 21, 2022, 10:04 AM",sell
+51,IRMD,IRADIMED CORP,Susi Roger E.,"President, CEO and Chairman","Apr 19, 2022",$43.90,10000,439023,642950,"Apr 21, 2022, 07:43 AM",sell
+52,VNOM,Viper Energy Partners LP,Blackstone Holdings III L.P.,10% Owner,"Apr 19, 2022",$31.37,20000,627498,12564631,"Apr 20, 2022, 09:46 PM",sell
+53,VNOM,Viper Energy Partners LP,Blackstone Holdings III L.P.,10% Owner,"Apr 18, 2022",$31.84,38000,1210110,12584631,"Apr 20, 2022, 09:46 PM",sell
+54,VNOM,Viper Energy Partners LP,BX Guidon Topco LLC,10% Owner,"Apr 19, 2022",$31.37,20000,627498,12564631,"Apr 20, 2022, 09:44 PM",sell
+55,VNOM,Viper Energy Partners LP,BX Guidon Topco LLC,10% Owner,"Apr 18, 2022",$31.84,38000,1210110,12584631,"Apr 20, 2022, 09:44 PM",sell
+56,CHK,CHESAPEAKE ENERGY CORP,Blackstone Holdings III L.P.,10% Owner,"Apr 18, 2022",$96.25,186085,17911349,8763706,"Apr 20, 2022, 09:36 PM",sell
+57,CHK,CHESAPEAKE ENERGY CORP,BX VINE (PUB) AGGREGATOR L.P.,10% Owner,"Apr 18, 2022",$96.25,186085,17911349,8763706,"Apr 20, 2022, 09:34 PM",sell
+58,MRVL,"Marvell Technology, Inc.",Hussain Muhammad Raghib,"President, Products & Tech","Apr 19, 2022",$61.08,45782,2796365,618298,"Apr 20, 2022, 09:24 PM",sell
+59,RXRX,"RECURSION PHARMACEUTICALS, INC.",Gibson Christopher,Chief Executive Officer,"Apr 18, 2022",$6.71,1000,6706,0,"Apr 20, 2022, 09:03 PM",sell
+60,RXRX,"RECURSION PHARMACEUTICALS, INC.",Gibson Christopher,Chief Executive Officer,"Apr 18, 2022",$6.72,500,3358,0,"Apr 20, 2022, 09:03 PM",sell
+61,RXRX,"RECURSION PHARMACEUTICALS, INC.",Gibson Christopher,Chief Executive Officer,"Apr 18, 2022",$6.84,35836,245072,394791,"Apr 20, 2022, 09:03 PM",sell
+62,RXRX,"RECURSION PHARMACEUTICALS, INC.",Gibson Christopher,Chief Executive Officer,"Apr 18, 2022",$6.71,1000,6706,0,"Apr 20, 2022, 09:03 PM",sell
+63,AEO,AMERICAN EAGLE OUTFITTERS INC,McLean Andrew J.,EVP & Chief Commercial Officer,"Apr 18, 2022",$17.40,6915,120321,53343,"Apr 20, 2022, 08:37 PM",sell
+64,AEO,AMERICAN EAGLE OUTFITTERS INC,McLean Andrew J.,EVP & Chief Commercial Officer,"Apr 19, 2022",$18.00,24958,449244,53343,"Apr 20, 2022, 08:37 PM",sell
+65,PCRX,"Pacira BioSciences, Inc.",REINHARDT MAX,"President, Rest of World","Apr 20, 2022",$73.99,9764,722438,26974,"Apr 20, 2022, 08:25 PM",sell
+66,PCRX,"Pacira BioSciences, Inc.",REINHARDT MAX,"President, Rest of World","Apr 19, 2022",$72.25,9321,673442,24238,"Apr 20, 2022, 08:25 PM",sell
+67,PCRX,"Pacira BioSciences, Inc.",REINHARDT MAX,"President, Rest of World","Apr 18, 2022",$73.55,8941,657611,21059,"Apr 20, 2022, 08:25 PM",sell
+68,RH,RH,Preston Jack M,CHIEF FINANCIAL OFFICER,"Apr 19, 2022",$350.00,2222,777700,5622,"Apr 20, 2022, 08:24 PM",sell
+69,BMRN,BIOMARIN PHARMACEUTICAL INC,BIENAIME JEAN JACQUES,Chief Executive Officer,"Apr 18, 2022",$81.91,20000,1638200,334983,"Apr 20, 2022, 08:20 PM",sell
+70,RH,RH,Lee Edward T,SEE REMARKS,"Apr 18, 2022",$330.18,2950,974044,5374,"Apr 20, 2022, 08:19 PM",sell
+71,WISH,ContextLogic Inc.,Szulczewski Piotr,Director,"Apr 18, 2022",$1.98,71066,140661,0,"Apr 20, 2022, 07:58 PM",sell
+72,HRMY,"Harmony Biosciences Holdings, Inc.",Nielsen Jack,Director,"Apr 20, 2022",$52.14,30177,1573429,3854335,"Apr 20, 2022, 07:58 PM",sell
+73,HRMY,"Harmony Biosciences Holdings, Inc.",Nielsen Jack,Director,"Apr 19, 2022",$52.35,97886,5124332,3884512,"Apr 20, 2022, 07:58 PM",sell
+74,HRMY,"Harmony Biosciences Holdings, Inc.",Nielsen Jack,Director,"Apr 18, 2022",$52.14,4195,218727,3982398,"Apr 20, 2022, 07:58 PM",sell
+75,WISH,ContextLogic Inc.,Shah Devang,General Counsel and Secretary,"Apr 18, 2022",$1.98,7298,14446,344150,"Apr 20, 2022, 07:57 PM",sell
+76,WISH,ContextLogic Inc.,Liu Pai,Chief Data Officer,"Apr 18, 2022",$1.98,1739,3442,6568,"Apr 20, 2022, 07:56 PM",sell
+77,WISH,ContextLogic Inc.,Just Brett,Chief Accounting Officer,"Apr 18, 2022",$1.98,1246,2467,70220,"Apr 20, 2022, 07:55 PM",sell
+78,WISH,ContextLogic Inc.,Jain Tarun Kumar,Chief Product Officer,"Apr 18, 2022",$1.92,30000,57666,86659,"Apr 20, 2022, 07:53 PM",sell
+79,KTOS,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",Goodwin Benjamin M.,"SVP, Corp. Dev. & Gov. Affairs","Apr 18, 2022",$19.03,1476,28093,19494,"Apr 20, 2022, 07:51 PM",sell
+80,BILL,"Bill.com Holdings, Inc.",Lacerte Rene A.,President and CEO,"Apr 18, 2022",$190.82,10000,1908180,88170,"Apr 20, 2022, 07:45 PM",sell
+81,BILL,"Bill.com Holdings, Inc.",Chung Bora,Chief Experience Officer,"Apr 18, 2022",$190.68,8855,1688459,8571,"Apr 20, 2022, 07:40 PM",sell
+82,KTOS,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",Carrai Phillip D,"President, STC Division","Apr 18, 2022",$19.07,3000,57197,175600,"Apr 20, 2022, 07:39 PM",sell
+83,BILL,"Bill.com Holdings, Inc.",Aji Rajesh A.,General Counsel & CCO,"Apr 18, 2022",$190.87,1562,298134,5462,"Apr 20, 2022, 07:35 PM",sell
+84,AGTI,"AGILITI, INC. DE",Neumann Lee M,EVP & GC,"Apr 18, 2022",$21.84,10043,219360,63276,"Apr 20, 2022, 07:30 PM",sell
+85,DDOG,"Datadog, Inc.",Richardson Julie,Director,"Apr 18, 2022",$130.53,3906,509847,5522,"Apr 20, 2022, 07:29 PM",sell
+86,SPT,"Sprout Social, Inc.",Del Preto Joseph,CFO and Treasurer,"Apr 19, 2022",$70.49,900,63441,134589,"Apr 20, 2022, 07:29 PM",sell
+87,ZIP,"ZIPRECRUITER, INC.",SAKAMOTO RYAN T.,General Counsel and Secretary,"May 26, 2021",$20.16,91314,1841280,154811,"Apr 20, 2022, 07:13 PM",sell
+88,ZIP,"ZIPRECRUITER, INC.",SAKAMOTO RYAN T.,General Counsel and Secretary,"May 26, 2021",$20.00,20000,400000,48000,"Apr 20, 2022, 07:13 PM",sell
+89,SPT,"Sprout Social, Inc.",Gilpin Jamie Cannon,Chief Marketing Officer,"Apr 19, 2022",$72.11,1246,89849,100025,"Apr 20, 2022, 07:13 PM",sell
+90,OPEN,Opendoor Technologies Inc.,Wu Eric Chung-Wei,CEO,"Apr 18, 2022",$8.26,180760,1493258,33515933,"Apr 20, 2022, 07:11 PM",sell
+91,OPEN,Opendoor Technologies Inc.,Morillo Daniel,Chief Investment Officer,"Apr 18, 2022",$8.26,59948,495230,2048020,"Apr 20, 2022, 07:10 PM",sell
+92,ZIP,"ZIPRECRUITER, INC.",DIONELLO RENATA,Chief People Officer,"May 26, 2021",$20.00,1041,20820,1959,"Apr 20, 2022, 07:09 PM",sell
+93,PNTG,"Pennant Group, Inc.",Stringfield JoAnne,Director,"Apr 19, 2022",$16.50,190,3135,7395,"Apr 20, 2022, 07:06 PM",sell
+94,ESMT,"EngageSmart, Inc.",Seltzer Jonathan Cole,"President, SMB Solutions","Apr 18, 2022",$20.85,8334,173764,1508,"Apr 20, 2022, 07:02 PM",sell
+95,UPWK,"UPWORK, INC",Brown Hayden,President & CEO,"Apr 18, 2022",$20.02,1405,28126,798100,"Apr 20, 2022, 07:01 PM",sell
+96,SNAP,Snap Inc,Andersen Derek,Chief Financial Officer,"Apr 18, 2022",$32.55,12844,418082,1102275,"Apr 20, 2022, 07:00 PM",sell
+97,SNAP,Snap Inc,Morrow Rebecca,CAO and Controller,"Apr 18, 2022",$32.25,8405,271102,229383,"Apr 20, 2022, 07:00 PM",sell
+98,SNAP,Snap Inc,Gorman Jeremi,Chief Business Officer,"Apr 19, 2022",$32.37,6128,198363,1460276,"Apr 20, 2022, 07:00 PM",sell
+99,SNAP,Snap Inc,Gorman Jeremi,Chief Business Officer,"Apr 18, 2022",$32.26,36111,1164904,1467014,"Apr 20, 2022, 07:00 PM",sell
+100,TW,Tradeweb Markets Inc.,Maisey Simon,"Managing Director, Corp. Dev.","Apr 18, 2022",$83.78,1000,83779,68357,"Apr 20, 2022, 06:50 PM",sell
