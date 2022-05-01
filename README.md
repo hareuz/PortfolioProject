@@ -1,5 +1,1 @@
-This project used dataset of sales of company from 2003 to 2005. The main idea of the project is to use SQL to perform analysis of the customer and products data. For this, we use RFM (Receny, Frequent and Monetary) analysis of customer's buying behavior and find out the products that sell together. 
-SQL is also used to showcase basic analytics to make sense the data, like the most successful month, year, most sales from which country etc. We also categorize customers on the basis of their recency profile. 
-All the results have also been vizualized in dashboards using Tableau.
-Link to Dashboard 1: https://public.tableau.com/app/profile/muhammad.haris.sohail/viz/SalesDataViz1/SalesDashBoard1
-Link to Dashboard 2: https://public.tableau.com/app/profile/muhammad.haris.sohail/viz/SalesDataViz2/Dashboard2
+
